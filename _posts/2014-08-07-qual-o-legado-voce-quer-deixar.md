@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Ayrton Senna: Inspiração de muitas gerações
+title: Ayrton Senna - Inspiração de muitas gerações
 date: 2014-08-07 15:20
 author: Eloiza Fontes
 author_profile: true
