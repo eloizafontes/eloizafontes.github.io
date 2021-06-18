@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: single
 title: Riscos da Automedicação
 date: 2014-02-02 17:19
 author: Eloiza Fontes
-comments: true
-categories: [Artigos]
+author_profile: true
+#comments: true
+categories: Artigos
 ---
-<a href="/assets/images/stock/automedicacao1.jpeg"><img id="i-13" class="size-full wp-image aligncenter" src="/assets/images/stock/automedicacao1.jpeg?w=410" alt="Imagem" /></a>
+
+{% include figure image_path="/assets/images/stock/automedicacao1.jpeg" alt=""  %}
 
 No Brasil, de acordo com a Associação Brasileira das Indústrias Farmacêuticas (ABIFARMA), cerca de 80 milhões de pessoas fazem uso da automedicação.
 
@@ -21,4 +23,5 @@ Uma das maneiras de diminuir a ingestão de medicamentos por conta própria seri
 Quando as pessoas são indagadas sobre a automedicação, respostas distintas e muitas vezes divergentes são dadas. Há aquelas que acreditam que a utilização desse método não traz muitos problemas, como, por exemplo,
 
 Apesar de existir opiniões distintas em relação à utilização de fármacos por conta própria, é preciso salientar que o método da automedicação não deve ser praticado como senso comum. Ao mesmo tempo em que pode trazer uma melhora rápida para alguma enfermidade, pode trazer também malefícios que somente os médicos podem controlá-los, por meio da dosagem ou freqüência com que cada remédio deve ser tomado diante de um determinado problema.
-<p style="text-align:right;"><em>Eloiza Fontes</em></p>
+
+
