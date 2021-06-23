@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Eloiza Fontes"
   avatar           : "/assets/images/portfolio/headshot/jornalista.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Mestre pelo programa de pós-graduação em Televisão Digital: Informação e Conhecimento da Faculdade de Arquitetura, Artes e Comunicação (FAAC) da Universidade Estadual Paulista Júlio de Mesquita Filho (Unesp-Bauru). Formada em Jornalismo também na FAAC da Unesp-Bauru."
   location         : "Brasil"
   email            : 
   links:
@@ -283,7 +283,7 @@ compress_html:
 # Collections
 collections:
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
