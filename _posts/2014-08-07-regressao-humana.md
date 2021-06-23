@@ -8,7 +8,7 @@ author_profile: true
 categories: Artigos
 ---
 
-"Quem não se comunica, se trumbica." (Chacrinha)
+> "Quem não se comunica, se trumbica." Chacrinha
 
 {% include figure image_path="/assets/images/stock/livro.jpg" alt=""  %}
 
@@ -29,5 +29,4 @@ Logo, percebe-se que o homem precisa se comunicar com as outras pessoas. O isola
 
 Complementando o texto colocado acima, fiz uma reportagem que mostra que o uso de tecnologia vem mudando hábitos sociais. Atualmente, é comum se deparar com pessoas sentadas em uma mesma mesa sem trocar uma palavra. No vídeo, psicóloga explica até que ponto este novo hábito pode prejudicar a convivência em grupo. A matéria foi veiculada nos telejornais da TV Barretos no dia 27 de fevereiro de 2013. Confira!
 
-<https://www.youtube.com/watch?v=aiwjJK6k-Aw>
-
+{% include video id="aiwjJK6k-Aw" provider="youtube" %}
