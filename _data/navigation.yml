@@ -4,6 +4,8 @@ main:
      url: /portfolio/
    - title: "Posts"
      url: /posts/
+   - title: "Store"
+     url: /store/
    - title: "About"
      url: /about/
   # - title: "Sample Posts"

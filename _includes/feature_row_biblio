@@ -4,16 +4,18 @@
   {% assign feature_row = page.feature_row %}
 {% endif %}
 
+
 <div class="feature__wrapper">
 
   {% for f in feature_row %}
-    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+    <div class="feature__item_biblio{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
-            <img src="{{ f.image_path | relative_url }}"
-                 alt="{% if f.alt %}{{ f.alt }}{% endif %}"
-                 href="{% if include.href %}{{ include.href }}{% endif %}">
+            <a href="{% if f.href %}{{ f.href }}{% endif %}" target="\_blank">
+              <img src="{{ f.image_path | relative_url }}"
+                   alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            </a>
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}
@@ -22,7 +24,7 @@
 
         <div class="archive__item-body">
           {% if f.title %}
-            <h2 class="archive__item-title">{{ f.title }}</h2>
+            <p><small>{{ f.title }}</small></p>
           {% endif %}
 
           {% if f.excerpt %}
