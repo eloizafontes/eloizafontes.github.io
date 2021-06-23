@@ -2,7 +2,6 @@
 layout: single
 title: Famílias sem-terra ocupam Ceagesp em Barretos
 date: 2014-08-19 02:21
-author: Eloiza Fontes
 author_profile: true
 #comments: true
 categories: Reportagens

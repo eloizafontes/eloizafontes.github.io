@@ -2,7 +2,6 @@
 layout: single
 title: Regressão Humana
 date: 2014-08-07 17:22
-author: Eloiza Fontes
 author_profile: true
 #comments: true
 categories: Artigos

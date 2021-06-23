@@ -2,7 +2,6 @@
 layout: single
 title: Escapismo desnecessário
 date: 2014-08-12 01:43
-author: Eloiza Fontes
 author_profile: true
 #comments: true
 categories: Artigos

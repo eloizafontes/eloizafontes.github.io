@@ -2,7 +2,6 @@
 layout: single
 title: Casamento no hospital - uma história de amor
 date: 2014-12-11 11:18
-author: Eloiza Fontes
 author_profile: true
 #comments: true
 categories: 

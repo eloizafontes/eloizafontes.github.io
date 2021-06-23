@@ -2,7 +2,6 @@
 layout: single
 title: Mundo de bonecos
 date: 2014-07-24 01:31
-author: Eloiza Fontes
 author_profile: true
 comments: true
 categories: Artigos

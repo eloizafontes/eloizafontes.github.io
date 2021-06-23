@@ -2,7 +2,6 @@
 layout: single
 title: Como você lida com as frustrações?
 date: 2014-08-11 02:10
-author: Eloiza Fontes
 author_profile: true
 #comments: true
 categories: Impressões

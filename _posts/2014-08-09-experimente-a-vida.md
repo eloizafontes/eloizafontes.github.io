@@ -2,7 +2,6 @@
 layout: single
 title: Experimente a vida!
 date: 2014-08-09 20:48
-author: Eloiza Fontes
 author_profile: true
 #comments: true
 categories: Impressões

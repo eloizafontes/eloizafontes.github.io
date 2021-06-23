@@ -2,7 +2,6 @@
 layout: single
 title: Riscos da Automedicação
 date: 2014-02-02 17:19
-author: Eloiza Fontes
 author_profile: true
 #comments: true
 categories: Artigos

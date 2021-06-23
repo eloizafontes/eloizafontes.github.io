@@ -2,7 +2,6 @@
 layout: single
 title: Futebol - A política do pão e circo atual
 date: 2014-07-07 01:08
-author: Eloiza Fontes
 author_profile: true
 #comments: true
 categories: Artigos

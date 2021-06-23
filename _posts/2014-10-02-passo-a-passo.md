@@ -2,7 +2,6 @@
 layout: single
 title: Passo a passo
 date: 2014-10-02 03:10
-author: Eloiza Fontes
 author_profile: true
 #comments: true
 categories: Passo a Passo
