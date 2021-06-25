@@ -1,6 +1,6 @@
 ---
 layout: single
-title: O que é cringe?
+title: O que Ã© cringe?
 date: 2021-06-25
 author_profile: true
 #comments: true
@@ -8,19 +8,19 @@ categories:
     - testes
 ---
 
-# E não é que que a expressão cringe viralizou na internet...
+# E nÃ£o Ã© que que a expressÃ£o cringe viralizou na internet...
 
-## Nos últimos dias, essa palavra tem repercutido principalmente nas redes socias, assim como "Millenials" e "Geração Z". Você deve até ter perdido as contas de quantos memes já viu, marcando as diferenças entre gerações.
+## Nos Ãºltimos dias, essa palavra tem repercutido principalmente nas redes socias, assim como "Millenials" e "GeraÃ§Ã£o Z". VocÃª deve atÃ© ter perdido as contas de quantos memes jÃ¡ viu, marcando as diferenÃ§as entre geraÃ§Ãµes.
 
 ### Mas o que significa "cringe"?
 
-O termo tem origem inglesa e é usado como uma gíria para se referir aos momentos em que as pessoas passam por situações desconfortáveis e constrangedoras. Nas redes sociais, inclusive, a palavra é bastante usada, significando algo como “vergonhoso”, em tradução livre. 
+O termo tem origem inglesa e Ã© usado como uma gÃ­ria para se referir aos momentos em que as pessoas passam por situaÃ§Ãµes desconfortÃ¡veis e constrangedoras. Nas redes sociais, inclusive, a palavra Ã© bastante usada, significando algo como â€œvergonhosoâ€, em traduÃ§Ã£o livre. 
 
-É fácil  dizer que para os "Millenials" esse termo poderia ser facilmente pela palavra "mico".
+Ã‰ fÃ¡cil  dizer que para os "Millenials" esse termo poderia ser facilmente pela palavra "mico".
 
-Para além do uso e do significado da expressão, a grande reflexão que o assunto tem gerado envolve as diferenças entre as gerações Milennials e Z.
-Em termos práticos, pessoas nascidas entre as décadas de 1980 e 1990 são definidas como “Millennials” ou “Geração Y”. 
+Para alÃ©m do uso e do significado da expressÃ£o, a grande reflexÃ£o que o assunto tem gerado envolve as diferenÃ§as entre as geraÃ§Ãµes Milennials e Z.
+Em termos prÃ¡ticos, pessoas nascidas entre as dÃ©cadas de 1980 e 1990 sÃ£o definidas como â€œMillennialsâ€ ou â€œGeraÃ§Ã£o Yâ€. 
 
-Já a “Geração Z” — também denominada “GenZ”, “pós-Millennials”, entre outros termos — é composta por aqueles nascidos entre 1995 a 2010, os chamados “nativos digitais”, uma vez terem nascido já imersos na tecnologia e na internet.
+JÃ¡ a â€œGeraÃ§Ã£o Zâ€ â€” tambÃ©m denominada â€œGenZâ€, â€œpÃ³s-Millennialsâ€, entre outros termos â€” Ã© composta por aqueles nascidos entre 1995 a 2010, os chamados â€œnativos digitaisâ€, uma vez terem nascido jÃ¡ imersos na tecnologia e na internet.
 
-E aí, me conta... o que é CRINGE para você?  
+E aÃ­, me conta... o que Ã© CRINGE para vocÃª?  
