@@ -8,13 +8,13 @@ categories:
     - testes
 ---
 
-# E não é que que a expressão "cringe" viralizou na internet...
+# E não é que que a expressão cringe viralizou na internet...
 
 ## Nos últimos dias, essa palavra tem repercutido principalmente nas redes socias, assim como "Millenials" e "Geração Z". Você deve até ter perdido as contas de quantos memes já viu, marcando as diferenças entre gerações.
 
 ### Mas o que significa "cringe"?
 
-O termo tem origem inglesa e é usado como uma gíria para se referir aos momentos em que as pessoas passam por situações desconfortáveis e constrangedoras. Nas redes sociais, inclusive, a palavra é bastante usada, significando algo como “vergonhoso”, em tradução livre.
+O termo tem origem inglesa e é usado como uma gíria para se referir aos momentos em que as pessoas passam por situações desconfortáveis e constrangedoras. Nas redes sociais, inclusive, a palavra é bastante usada, significando algo como “vergonhoso”, em tradução livre. 
 
 É fácil  dizer que para os "Millenials" esse termo poderia ser facilmente pela palavra "mico".
 
