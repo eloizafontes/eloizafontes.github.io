@@ -33,7 +33,7 @@
             {% endif %}
 
             {% if f.url %}
-              <p><a href="{{ f.url }}" class="btn btn--primary btn--small">{{ f.btn_label | default: "See on Amazon" }}</a></p>
+              <p><a href="{{ f.url }}" class="btn btn--primary btn--small" target="\_blank">{{ f.btn_label | default: "See on Amazon" }}</a></p>
             {% endif %}
           </div>
         </div>
