@@ -3,7 +3,7 @@ layout: splash
 classes: wide
 excerpt: ""
 toc: false
-permalink: /store/livros/
+permalink: /store/cameras/
 header:
   teaser: /assets/images/stock/sharegrid-N10auyEVst8-unsplash.jpg
 ---

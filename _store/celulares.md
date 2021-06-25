@@ -3,7 +3,7 @@ layout: splash
 classes: wide
 excerpt: ""
 toc: false
-permalink: /store/livros/
+permalink: /store/celulares/
 header:
   teaser: /assets/images/stock/david-svihovec-Gd6hKygUGi8-unsplash.jpg
 ---
