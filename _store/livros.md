@@ -5,11 +5,11 @@ excerpt: ""
 toc: false
 permalink: /store/livros/
 header:
-  teaser: /assets/images/stock/store_livros.jpg
+  teaser: /assets/images/store/teaser_livros.jpg
 ---
 
 
 
 ## Auto-Ajuda
 
-{% include feature_row_products class='livros' category='auto-ajuda' %}
+{% include column_cards_amazon-products class='livros' category='auto-ajuda' %}

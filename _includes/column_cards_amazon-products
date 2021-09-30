@@ -1,0 +1,47 @@
+{% assign feature_row = site.data.products %}
+
+<div class="feature__wrapper_rfv">
+  {% for f in feature_row %}
+
+  {%assign chave=false%}
+
+  {% if f.class == include.class or include.class == nil %}
+    {% if f.category == include.category or include.category == nil %}
+      {% if f.tipo contains include.tipo or include.tipo == nil %}
+        {% if f.gender == include.gender or include.gender == nil or f.gender == 'unisex' and include.gender == 'women' or include.gender == 'men' %}
+          {%assign chave=true%}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+
+
+  {% if chave %}
+  <div class="feature__item_rfv_3{% if include.type %}--{{ include.type }}{% endif %} {{ f.tipo }} {{ f.gender }} show">
+    <div class="card_rfv">
+      <div class="archive__item-teaser_rfv">
+        {% if f.image_path %}
+        <a href="{% if f.url %}{{ f.url }}{% endif %}" target="\_blank" rel="noreferrer noopener sponsored nofollow">
+          <img src="{{ f.image_path | relative_url }}"
+              alt="{% if f.alt %}{{ f.alt }}{% endif %}" style="width:100%">
+        </a>
+        {% endif %}
+      </div>
+
+      <div class="archive__item-body">
+        <div class="archive__item-body__textbox">
+          {% if f.title %}
+          <p>{{ f.title }}</p>
+          {% endif %}
+        </div>
+        {% if f.url %}
+        <p><a href="{{ f.url }}" class="btn btn--primary btn--small" target="\_blank" rel="noreferrer noopener sponsored nofollow">{{ f.btn_label | default: "See on Amazon" }}</a></p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+

@@ -5,13 +5,13 @@ excerpt: ""
 toc: false
 permalink: /store/celulares/
 header:
-  teaser: /assets/images/stock/david-svihovec-Gd6hKygUGi8-unsplash.jpg
+  teaser: /assets/images/store/teaser_celulares.jpg
 ---
 
 
 
 ## Celulares
 
-{% include feature_row_products class='eletronicos' category='celulares' %}
+{% include column_cards_amazon-products class='eletronicos' category='celulares' %}
 
 

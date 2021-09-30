@@ -303,3 +303,6 @@ defaults:
       comments: false # true
       share: true
       related: true
+      google-adsense-noshow:
+        sidebar: true
+

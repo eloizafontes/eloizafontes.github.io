@@ -1,0 +1,23 @@
+{% assign amzn_url = "{{ include.url }}" %}
+{% assign amzn_img = "/assets/images/logos/logo_amazon.png" %}
+
+
+
+
+<div class="feature__item_rfv_4">
+  <div class="card_rfv">
+    <div class="archive__item-teaser">
+      <a href="{{ amzn_url }}" target="\_blank">
+        <img src="{{ amzn_img | relative_url }}"
+            alt="Hobby King Logo" style="width:100%">
+      </a>
+    </div>
+
+    <div class="archive__item-body">
+      <div class="archive__item-body__textbox">
+        <p>Amazon</p>
+      </div>
+      <p><a href="{{ amzn_url }}" class="btn btn--primary btn--small" target="\_blank">See more</a></p>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,46 @@
+
+{% assign feature_row = site.data.digital-products %}
+
+<div class="feature__wrapper">
+  {% for f in feature_row %}
+    {% if f.class == include.class and f.category == include.category %}
+      <!-- <div class="column_cards_rfv"> -->
+      <div class="feature__item_rfv_4{% if include.type %}--{{ include.type }}{% endif %}">
+        <div class="card_rfv">
+          {% if f.image_path %}
+              <a href="{% if f.url %}{{ f.url }}{% endif %}" target="\_blank">
+                <img src="{{ f.image_path | relative_url }}"
+                    alt="{% if f.alt %}{{ f.alt }}{% endif %}" style="width:100%">
+              </a>
+          {% endif %}
+
+          {% if f.title %}
+              <h3>{{ f.title }}</h3>
+          {% endif %}
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if f.guid %}
+            <button class="snipcart-add-item"
+              data-item-id="{{ f.id }}"
+              data-item-price="{{ f.price }}"
+              data-item-url="{{ f.url }}"
+              data-item-description="{{ f.excerpt }}"
+              data-item-image="{{ f.image_path | relative_url }}"
+              data-item-name="{{ f.title }}"
+              data-item-file-guid	="{{ f.guid }}">
+              Add to Cart
+            </button>
+          {% endif %}
+        </div>
+      </div>
+
+    {% endif %}
+
+  {% endfor %}
+</div>
+
+

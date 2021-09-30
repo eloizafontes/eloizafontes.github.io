@@ -5,10 +5,10 @@ excerpt: ""
 toc: false
 permalink: /store/cameras/
 header:
-  teaser: /assets/images/stock/sharegrid-N10auyEVst8-unsplash.jpg
+  teaser: /assets/images/store/teaser_cameras.jpg
 ---
 
 
 ## Câmeras
 
-{% include feature_row_products class='eletronicos' category='cameras' %}
+{% include column_cards_amazon-products class='eletronicos' category='cameras' %}

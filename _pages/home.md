@@ -2,6 +2,8 @@
 layout: single
 permalink: /
 author_profile: true
+google-adsense-noshow:
+    sidebar: true
 ---
 
 {% include figure image_path="/assets/images/portfolio/headshot/jornalista.jpg" alt=""  %}

@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+
+
+    {{ content }}
+
+    {% assign entries_layout = page.entries_layout | default: 'list' %}
+    <div class="entries-{{ entries_layout }}">
+      {% if page.collection_style == "rfv" %}
+        {% include documents-collection_rfv.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+      {% endif %}
+      {% if page.collection_style == "card_rfv" %}
+        {% include documents-collection_card_rfv.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+      {% endif %}
+      {% if page.collection_style == nil or page.collection_style == "default" %}
+        {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+      {% endif %}
+    </div>
+  </article>
+</div>
