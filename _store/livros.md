@@ -13,3 +13,9 @@ header:
 ## Produtividade
 
 {% include column_cards_amazon-products class='livros' category='produtividade' %}
+
+
+
+## Auto-Ajuda
+
+{% include column_cards_amazon-products class='livros' category='auto-ajuda' %}
