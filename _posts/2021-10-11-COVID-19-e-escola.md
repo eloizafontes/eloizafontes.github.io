@@ -12,7 +12,7 @@ categories:
     
 ---
 
-{% include video id="14SOwrELxYc&t" provider="youtube" %}
+{% include video id="14SOwrELxYc" provider="youtube" %}
 
 A pandemia do coronavírus não acabou. Grande parcela da população já foi vacinada, mas ainda faltam as crianças. O público infantil começou a receber a primeira dose da vacina recentemente. 
 Aos poucos, as atividades estão sendo retomadas, assim como as aulas que já voltaram a serem realizadas presencialmente em grande parte dos municípios brasileiros. 
