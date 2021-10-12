@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: COVID-19, Importância da vacinação e de medidas preventivas na volta às aulas presenciais
@@ -10,6 +9,7 @@ categories:
     - Escola
     - Vacinação
     - Medidas preventivas
+    
 ---
 
 {% include video id="14SOwrELxYc&t=3s" provider="youtube" %}
