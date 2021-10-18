@@ -12,7 +12,7 @@ categories:
     
 ---
 
-{% include video id="LGtO62kc7SE" provider="youtube" %}
+{% include video id="k-KAexf1dLI" provider="youtube" %}
 
 Nesta época do ano, em que o tempo está seco, com umidade relativa do ar bem baixa, muita poeira, mais as ocorrências de incêndios, com grande quantidade de fumaça no ar, e a pandemia do coronavírus, que ainda não acabou, nos deparamos com doenças respiratórias que, além de serem ocasionadas, podem também ser agravadas nesse período.
 Todo mundo sente na pele as consequências desse tempo seco e as crianças sofrem bastante.
