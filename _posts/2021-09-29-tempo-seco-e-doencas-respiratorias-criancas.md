@@ -18,4 +18,4 @@ Nesta época do ano, em que o tempo está seco, com umidade relativa do ar bem b
 Todo mundo sente na pele as consequências desse tempo seco e as crianças sofrem bastante.
 Neste vídeo, entrevisto o médico pneumologista pediátrico, Dr. Caio Junqueira,  que orienta quanto aos cuidados necessários nesta época do ano para prevenir as doenças respiratórias nas crianças.
 Ele também esclarece dúvidas de algumas mães.
-Então, não perca. Fique ligadinho e confira a entrevista até o final.
+Então, não perca. Fique ligadinho e confira a entrevista até o final. 
