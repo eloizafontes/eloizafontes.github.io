@@ -12,7 +12,7 @@ categories:
     
 ---
 
-{% include figure image_path="/assets/images/stock/outubro-rosa" alt=""  %}
+{% include video id="3Cw4W5ky1hM" provider="youtube" %}
 
 
 A cor rosa se destaca em Outubro e chama a atenção… e o objetivo é esse mesmo! 
@@ -27,4 +27,4 @@ Durante a entrevista, ele destaca os principais cuidados que a mulher precisa te
 
 Então, não perca. Assista ao vídeo até o final e não deixe de compartilhá-lo com as mulheres que você conhece… Bora lá?!
 
-{% include video id="3Cw4W5ky1hM" provider="youtube" %}
+
