@@ -1,6 +1,6 @@
 ---
 layout: single
-title: OUTUBRO ROSA - médico orienta quanto à importância da PREVENÇÃO e do DIAGNÓSTICO PRECOCE do CÂNCER DE MAMA
+title: Outubro Rosa - médico orienta quanto à importância da prevenção e do diagnóstico precoce do câncer de mama
 date: 2021-10-20 
 author_profile: true
 #comments: true
