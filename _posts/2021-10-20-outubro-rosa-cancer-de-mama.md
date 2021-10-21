@@ -12,7 +12,7 @@ categories:
     
 ---
 
-{% include figure image_path="/assets/images/stock/outubro-rosa.jpg" alt=""  %}
+{% include figure image_path="/assets/images/stock/outubro-rosa.png" alt=""  %}
 
 
 A cor rosa se destaca em Outubro e chama a atenção… e o objetivo é esse mesmo! 
