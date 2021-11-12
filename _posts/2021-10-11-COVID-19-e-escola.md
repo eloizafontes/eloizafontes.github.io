@@ -4,6 +4,8 @@ title: COVID-19 - Importância da vacinação e de medidas preventivas na volta 
 date: 2021-10-11 
 author_profile: true
 #comments: true
+header:
+  teaser:/assets/images/posts/covid-e-escola.png
 categories: 
     - COVID-19
     - Escola
