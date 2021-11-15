@@ -3,6 +3,9 @@ layout: single
 title: COVID-19 - Importância da vacinação e de medidas preventivas na volta às aulas presenciais
 date: 2021-10-11 
 author_profile: true
+google-adsense-noshow:
+    sidebar: true
+    footer: true
 #comments: true
 header:
   teaser: /assets/images/posts/covid-e-escola.png
