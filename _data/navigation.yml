@@ -2,10 +2,10 @@
 main:
    - title: "Posts"
      url: /posts/
-   - title: "Tutorials"
-     url: /tutorials/
-   - title: "Portfolio"
-     url: /portfolio/
+#   - title: "Tutorials"
+#     url: /tutorials/
+#   - title: "Portfolio"
+#     url: /portfolio/
    - title: "Store"
      url: /store/
    - title: "About"
