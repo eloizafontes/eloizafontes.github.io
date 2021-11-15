@@ -5,7 +5,7 @@ title: About
 permalink: /about/
 author_profile: false
 google-adsense-noshow:
-    sidebar: false
+    sidebar: true
     footer: true
 ---
 
