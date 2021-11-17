@@ -13,5 +13,5 @@ categories:
     bundle exec jekyll build
     git add .
     git commit -m "Adiciona o primeiro tutorial."
-    push -u origin main
+    git push -u origin main
 ```
