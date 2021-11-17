@@ -121,9 +121,15 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/eloizafontes"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://eloizafontes.com"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://eloizafontes.com"
+    - label: "Buy Me a Coffee"
+      icon: "fas fa-coffee"
+      url: "https://www.buymeacoffee.com/eloizafontes"
+    - label: "Lista de Desejos"
+      icon: "fab fa-fw fa-amazon"
+      url: "https://www.amazon.com.br/hz/wishlist/ls/IA4AOM70T4SJ?ref_=wl_share"
 
 
 # Site Footer
