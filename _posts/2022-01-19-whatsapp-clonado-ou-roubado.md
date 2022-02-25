@@ -10,6 +10,7 @@ categories: Artigos
 {% include figure image_path="/assets/images/stock/automedicacao1.jpeg" alt=""  %}
 
 #golpesWhatsApp #clonado #roubado 
+
 Não tem como negar: o WhatsApp faz parte do nosso dia a dia e é o meio de comunicação que mais utilizamos na atualidade.
 
 O aplicativo veio para facilitar tudo, não é mesmo? 
