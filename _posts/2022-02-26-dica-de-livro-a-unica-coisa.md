@@ -9,17 +9,46 @@ categories: Artigos
 
 {% include figure image_path="/assets/images/stock/automedicacao1.jpeg" alt=""  %}
 
-No Brasil, de acordo com a Associação Brasileira das Indústrias Farmacêuticas (ABIFARMA), cerca de 80 milhões de pessoas fazem uso da automedicação.
+Você é multitarefa? Ou foca em uma única coisa e faz até terminar?
 
-Os principais sintomas que levam os brasileiros a tomar remédio por conta própria são dor de cabeça, dor muscular, cólica e quadros viróticos ou infecciosos, como infecção respiratória e diarréia. A propagação maciça de medicamentos, a facilidade de obtê-los e a falta de regulamentação e fiscalização da venda são alguns dos principais motivos que levam as pessoas a utilizarem esse método como tratamento.
+Antes, eu tentava abraçar o mundo. O resultado até poderia sair como eu esperava, mas era muito desgastante, com riscos possíveis de dar algo errado ou gerar alguma confusão.
 
-Os medicamentos servem para aliviar, curar e, paradoxalmente, podem piorar muitas das disfunções e doenças. Tudo depende das condições de sua utilização e das reações do organismo. A automedicação, prática de ingerir medicamentos por conta e risco próprio sem o acompanhamento de um profissional da saúde, pode agravar os efeitos colaterais dos medicamentos. Uma indicação malfeita ou o uso incorreto de um medicamento pode não dar o resultado esperado, podendo aumentar a resistência das bactérias aos antibióticos. Além disso, a pessoa pode apresentar alergia a determinados ingredientes da fórmula medicamentosa e, em conseqüência, desenvolver uma intoxicação.
+Sempre gostei muito de ler e estudar sobre produtividade. Ao ler o livro "A única coisa", consegui ter ainda mais clareza do poder do FOCO e de quanto ele pode trazer resultados extraordinários, seja na vida profissional quanto na pessoal.
 
-A venda livre de medicamentos é condenada por alguns médicos, que consideram o fácil acesso aos remédios uma maneira de induzir as pessoas a se automedicarem.
+E, se algum dia eu pensei que o meu perfil era de multitarefa, estava enganada. Meu rendimento é bem melhor quanto foco em cada projeto, de acordo com as prioridades, e faço até terminar.
 
-Uma das maneiras de diminuir a ingestão de medicamentos por conta própria seria a venda de remédios somente com a apresentação da receita médica. No entanto, segundo a Associação Brasileira de Redes de Farmácias e Drogarias (Abrafarma), a receita só é exigida para se vender remédios de altos riscos, como os de tarja preta e vermelha. Esses medicamentos são muito fortes e, geralmente, são indicados em tratamentos de emagrecimento e de depressão.
+Recomendo a leitura deste livro e que, ao lê-lo, espero que contribua muito para sua produtividade.
 
-Quando as pessoas são indagadas sobre a automedicação, respostas distintas e muitas vezes divergentes são dadas. Há aquelas que acreditam que a utilização desse método não traz muitos problemas, como, por exemplo,
+Abaixo, compartilho alguns dos insights que a leitura desse livro me proporcionou.
+
+"Não importa qual é a tarefa, a missão ou o objetivo, seja grande ou pequeno. Comece com uma lista tão extensa quanto quiser, mas cultive a ideia de que vai reduzi-la até o pouco que é mais importante, sem parar até chegar ao que é realmente essencial. O que é imperativo. A ÚNICA COISA."
+
+"É pensar grande, mas ser muito simples."
+
+"Sempre haverá algumas poucas coisas que importam muito mais que o restante e, entre estas, uma será a mais relevante. Internalizar esse conceito é como ganhar uma bússola mágica. Sempre que você se sentir perdido ou sem direção, pode sacá-la para lembrar-se de descobrir o que mais importa."
+
+"Fazer de tudo ao mesmo tempo é uma mentira."
+"(...)fazer muita coisa ao mesmo tempo não é eficiente nem efetivo. No mundo dos resultados, em geral leva ao fracasso."
+
+"Quando você tenta fazer duas coisas ao mesmo tempo, ou não dá conta ou faz ambas mal. Se você acha que ser um 'multitarefeiro' significa um jeito efetivo de concluir mais, entendeu errado. Como disse Steve Uzzel: 'Fazer muita coisa ao mesmo tempo é meramente a oportunidade de estragar mais de uma coisa ao mesmo tempo'."
+
+"O truque para ter sucesso é escolher o hábito certo e reunir disciplina suficiente para estabelecê-lo."
+
+"Quando tiver que trabalhar, trabalhe, e quando tiver que se divertir, divirta-se."
+
+"Pensar grande é essencial para ter resultados extraordinários."
+
+"Não deixe que o pensar pequeno diminua a sua vida. Pense grande, mire alto, seja ousado. E veja até onde você pode expandir a sua vida."
+
+"Benchmarking e trending ajudam-no a encontrar a resposta extraordinária d que você precisa para alcançar resultados extraordinários."
+
+"Quanto mais produtivas são as pessoas, mais intenção e prioridade as motivam e direcionam."
+
+"Grandes negócios são construídos por cada um de seus colaboradores produtivos."
+
+"Quando você reservar um bloco de tempo para sua prioridade mais importante, protegê-lo e trabalhar dentro dele o mais eficiente possível, será cada vez mais produtivo."
+
+"O sucesso é um trabalho interno."
 
 Apesar de existir opiniões distintas em relação à utilização de fármacos por conta própria, é preciso salientar que o método da automedicação não deve ser praticado como senso comum. Ao mesmo tempo em que pode trazer uma melhora rápida para alguma enfermidade, pode trazer também malefícios que somente os médicos podem controlá-los, por meio da dosagem ou freqüência com que cada remédio deve ser tomado diante de um determinado problema.
 
