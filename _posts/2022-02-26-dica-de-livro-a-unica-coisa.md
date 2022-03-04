@@ -1,10 +1,11 @@
 ---
 layout: single
-title: Riscos da Automedicação
-date: 2014-02-02 17:19
+title: Dica de livro "A Única Coisa"
+date: 2022-02-26 
 author_profile: true
 #comments: true
 categories: Artigos
+
 ---
 
 {% include figure image_path="/assets/images/stock/automedicacao1.jpeg" alt=""  %}
@@ -50,6 +51,5 @@ Abaixo, compartilho alguns dos insights que a leitura desse livro me proporciono
 
 "O sucesso é um trabalho interno."
 
-Apesar de existir opiniões distintas em relação à utilização de fármacos por conta própria, é preciso salientar que o método da automedicação não deve ser praticado como senso comum. Ao mesmo tempo em que pode trazer uma melhora rápida para alguma enfermidade, pode trazer também malefícios que somente os médicos podem controlá-los, por meio da dosagem ou freqüência com que cada remédio deve ser tomado diante de um determinado problema.
 
 
