@@ -8,7 +8,7 @@ categories: Artigos
 
 ---
 
-{% include figure image_path="/assets/images/stock/automedicacao1.jpeg" alt=""  %}
+{% include figure image_path="/assets/images/stock/livro-a-unica-coisa.jpeg" alt=""  %}
 
 Você é multitarefa? Ou foca em uma única coisa e faz até terminar?
 
