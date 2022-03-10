@@ -26,4 +26,4 @@ Bora bora comigo e não se esqueça de compartilhar esse vídeo, porque o conte�
 
 Então, aperte o play e assista ao vídeo até o fim! Vamos lá!!!
 
-{% include video id="v=LmvCcIWeUyA" provider="youtube" %}
+{% include video id="LmvCcIWeUyA" provider="youtube" %}
