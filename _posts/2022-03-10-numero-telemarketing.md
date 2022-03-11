@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Ligações de telemarketing passam a começar com o número 0303 
+title: Mais fácil de identificar! Ligações de telemarketing passam a começar com o número 0303 
 date: 2022-03-10 
 author_profile: true
 #comments: true
@@ -8,7 +8,6 @@ categories: Artigos
 
 ---
 
-Mais fácil de identificar: ligações de telemarketing passam a começar com o número 0303 
 
 {% include figure image_path="\assets\images\stock\numero-telemarketing.jpg" alt=""  %}
 
