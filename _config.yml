@@ -297,7 +297,9 @@ collections:
   tutorials:
     output: true
     permalink: /:collection/:path/
-
+  reviewa:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:

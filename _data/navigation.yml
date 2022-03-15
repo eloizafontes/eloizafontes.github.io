@@ -6,6 +6,8 @@ main:
      url: /tutorials/
 #   - title: "Portfolio"
 #     url: /portfolio/
+  - title: "Reviews"
+    url: /reviews/
    - title: "Store"
      url: /store/
    - title: "About"
