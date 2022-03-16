@@ -5,7 +5,6 @@ date: 2022-03-10
 author_profile: true
 #comments: true
 categories: Artigos
-
 ---
 
 {% include figure image_path="\assets\images\stock\numero-telemarketing.jpg" alt=""  %}
