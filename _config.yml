@@ -297,7 +297,10 @@ collections:
   tutorials:
     output: true
     permalink: /:collection/:path/
-  reviewa:
+  reviews:
+    output: true
+    permalink: /:collection/:path/
+  dicas-de-viagens:
     output: true
     permalink: /:collection/:path/
 
