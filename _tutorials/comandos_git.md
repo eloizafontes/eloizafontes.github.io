@@ -15,13 +15,13 @@ Antes de comecar, atualize os gems da linguagem ruby:
 ```
 
 
-Caso tenha feito alteracoes no proprio no site do Github, a versao local estara ultrapassada em relacao à versão do site. Entao, use o comando pull localmente antes de fazer qualquer coisa.
+Caso tenha feito alterações no próprio no site do Github, a versão local estará ultrapassada em relação à versão do site. Então, use o comando "pull" localmente antes de fazer qualquer coisa.
 
 ```
     git pull --rebase
 ```
 
-Comandos básicos para fazer alteracoes no site.
+Comandos básicos para fazer alterações no site.
 
 ```
     bundle exec jekyll build
