@@ -8,7 +8,7 @@ main:
 #     url: /portfolio/
    - title: "Reviews"
      url: /reviews/
-  - title: "Dicas de Viagens"
+   - title: "Dicas de Viagens"
      url: /dicas-de-viagens/
    - title: "Store"
      url: /store/
