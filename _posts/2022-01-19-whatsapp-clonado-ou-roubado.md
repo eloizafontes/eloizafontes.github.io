@@ -5,7 +5,7 @@ date: 2022-01-19
 author_profile: true
 #comments: true
 header:
-  teaser: /assets/images/posts/golpes-whatsapp.png
+  teaser: /assets/images/posts/golpes-whatsapp.jpg
 categories: Artigos
 
 ---
