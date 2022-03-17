@@ -9,6 +9,8 @@ google-adsense-noshow:
     footer: true
 ---
 I am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon sites.
+{: .notice--info}
+
 
 {% include figure image_path="/assets/images/portfolio/headshot/jornalista.jpg" alt="" width="60%" %}
 
