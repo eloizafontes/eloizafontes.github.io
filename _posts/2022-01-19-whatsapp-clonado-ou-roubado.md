@@ -10,7 +10,7 @@ categories: Artigos
 
 ---
 
-{% include figure image_path="/assets/images/stock/golpes-whatsapp.png" alt=""  %}
+{% include video id="LmvCcIWeUyA" provider="youtube" %}
 
 Não tem como negar: o WhatsApp faz parte do nosso dia a dia e é o meio de comunicação que mais utilizamos na atualidade.
 
@@ -28,4 +28,3 @@ Bora bora comigo e não se esqueça de compartilhar esse vídeo, porque o conte�
 
 Então, aperte o play e assista ao vídeo até o fim! Vamos lá!!!
 
-{% include video id="LmvCcIWeUyA" provider="youtube" %}
