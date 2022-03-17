@@ -4,11 +4,13 @@ title: Mais fácil de identificar! Ligações de telemarketing passam a começar
 date: 2022-03-10 
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/numero-telemarketing.jpg
 categories: Artigos
 
 ---
 
-{% include figure image_path="\assets\images\stock\numero-telemarketing.jpg" alt=""  %}
+{% include figure image_path="/assets/images/stock/numero-telemarketing.jpg" alt=""  %}
 
 Uma coisa que incomoda muito são as ligações de telemarketing. Muitas vezes, chegamos a atendê-las porque não sabemos, pelos números chamados, que são elas.
 

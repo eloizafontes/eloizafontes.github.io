@@ -4,6 +4,8 @@ title: Dica de livro "A Única Coisa"
 date: 2022-02-26 
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/a-unica-coisa.png
 categories: Artigos
 
 ---
