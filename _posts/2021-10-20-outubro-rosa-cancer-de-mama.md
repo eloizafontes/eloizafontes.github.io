@@ -4,11 +4,14 @@ title: Outubro Rosa - médico orienta quanto à importância da prevenção e do
 date: 2021-10-20 
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/outubro-rosa.png
 categories: 
     - Outubro Rosa
     - Prevenção
     - Diagnóstico Precoce
     - Câncer de Mama
+    - Mamografia
     
 ---
 
