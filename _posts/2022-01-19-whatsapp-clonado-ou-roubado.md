@@ -4,11 +4,13 @@ title: Clonado ou Roubado? Proteja seu WhatsApp de golpes
 date: 2022-01-19 
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/golpes-whatsapp.png
 categories: Artigos
 
 ---
 
-{% include figure image_path="\assets\images\stock\Golpes-WhatsApp.png" alt=""  %}
+{% include figure image_path="/assets/images/stock/golpes-whatsapp.png" alt=""  %}
 
 Não tem como negar: o WhatsApp faz parte do nosso dia a dia e é o meio de comunicação que mais utilizamos na atualidade.
 
