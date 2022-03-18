@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Resgate dinheiro esquecido nos bancos já está disponível 
+title: Confira o passo a passoa para resgatar o dinheiro esquecido nos bancos 
 date: 2022-03-10 
 author_profile: true
 #comments: true
