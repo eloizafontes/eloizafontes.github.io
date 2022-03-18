@@ -14,6 +14,8 @@ categories:
 
 ---
 
+{% include figure image_path="/assets/images/stock/dinheiro.jpg" alt=""  %}
+
 No começo do ano, gerou um grande alvoroço quando foi informado pelo Banco Central sobre a devolução do dinheiro esquecido nos bancos para quem tem o direito. Um dos motivos foi porque muitos ficaram desconfiados da notícia. Também são tantos golpes acontecendo e fake news sendo divulgadas. Dúvidas poderiam mesmo ocorrer.
 
 Ao mesmo tempo, que era normal acontecer muita correria para saber mais da notícia e se tinha alguma quantia para retirar, não é mesmo? Porque dinheirinho extra nunca é demais… Pois bem, não é fake news… Muitos brasileiros têm direito a receber dinheiro esquecido.
