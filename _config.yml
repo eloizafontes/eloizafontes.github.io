@@ -95,6 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Eloiza Fontes"
+  home             : "/"
   avatar           : "/assets/images/portfolio/headshot/jornalista.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   #bio              : "Mestre pelo programa de pós-graduação em Televisão Digital: Informação e Conhecimento da Faculdade de Arquitetura, Artes e Comunicação (FAAC) da Universidade Estadual Paulista Júlio de Mesquita Filho (Unesp-Bauru). Formada em Jornalismo também na FAAC da Unesp-Bauru."
   location         : "Brasil"
@@ -227,7 +228,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 6 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -239,6 +240,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-admin
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -318,7 +320,8 @@ defaults:
       share: true
       related: true
       google-adsense-noshow:
-        sidebar: true
+        sidebar_left: true
+        sidebar_right: false
         footer: false
   # _tutorials
   - scope:
@@ -332,6 +335,7 @@ defaults:
       share: true
       related: true
       google-adsense-noshow:
-        sidebar: true
+        sidebar_left: true
+        sidebar_right: false
         footer: false
 

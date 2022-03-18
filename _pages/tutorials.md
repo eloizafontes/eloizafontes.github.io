@@ -5,8 +5,8 @@ permalink: /tutorials/
 collection: tutorials
 entries_layout: grid
 classes: wide
+author_profile: true
 google-adsense-noshow:
-    sidebar: true
-    footer: true
+    sidebar_left: true
 ---
 

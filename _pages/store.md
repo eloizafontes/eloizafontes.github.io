@@ -9,7 +9,8 @@ entries_layout: grid
 classes: wide
 sort_by: title
 google-adsense-noshow:
-    sidebar: true
+    sidebar_left: true
+    sidebar_right: true
     footer: true
 ---
 

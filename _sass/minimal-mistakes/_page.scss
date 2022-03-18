@@ -77,6 +77,15 @@ body {
   }
 }
 
+.page__title_splash {
+  margin-top: 1em;
+  line-height: 1;
+
+  & + .page__meta {
+    margin-top: -0.5em;
+  }
+}
+
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;

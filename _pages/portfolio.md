@@ -7,6 +7,7 @@ entries_layout: grid
 classes: wide
 author_profile: true
 google-adsense-noshow:
-    sidebar: true
+    sidebar_left: true
+    sidebar_right: true
     footer: true
 ---

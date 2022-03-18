@@ -5,14 +5,15 @@ date: 2014-02-02 17:19
 author_profile: true
 #comments: true
 header:
-  teaser: /assets/images/posts/automedicacao.jpg
-categories: Artigos
+  teaser: /assets/images/posts/automedicacao.jpeg
+categories: 
+   - Artigos
    - Automedicação
    - Remédios
    - Saúde
 ---
 
-{% include figure image_path="/assets/images/stock/automedicacao.jpg" alt=""  %}
+{% include figure image_path="/assets/images/stock/automedicacao.jpeg" alt=""  %}
 
 No Brasil, de acordo com a Associação Brasileira das Indústrias Farmacêuticas (ABIFARMA), cerca de 80 milhões de pessoas fazem uso da automedicação.
 

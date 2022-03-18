@@ -3,9 +3,10 @@ layout: single
 classes: wide
 title: About
 permalink: /about/
-author_profile: false
+author_profile: true
 google-adsense-noshow:
-    sidebar: true
+    sidebar_left: true
+    sidebar_right: true
     footer: true
 ---
 I am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon sites.

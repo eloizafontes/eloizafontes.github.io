@@ -3,7 +3,8 @@ layout: single
 permalink: /
 author_profile: true
 google-adsense-noshow:
-    sidebar: true
+    sidebar_left: true
+    sidebar_right: true
 ---
 
 {% include figure image_path="/assets/images/portfolio/headshot/jornalista.jpg" alt=""  %}

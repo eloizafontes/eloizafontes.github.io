@@ -12,7 +12,7 @@ categories: Artigos
 
 {% include figure image_path="/assets/images/stock/numero-telemarketing.jpg" alt=""  %}
 
-**Uma coisa que incomoda muito são as ligações de telemarketing. Muitas vezes, chegamos a atendê-las porque não sabemos, pelos números chamados, que são elas.**
+Uma coisa que incomoda muito são as ligações de telemarketing. Muitas vezes, chegamos a atendê-las porque não sabemos, pelos números chamados, que são elas.
 
 Agora, ficou mais fácil para o consumidor identificar e bloquear as insistentes chamadas de telemarketing: desde 10 de março, entrou em vigor a regra da Agência Nacional de Telecomunicações (Anatel)  que obriga esse tipo de chamada a ser identificado pelo código 0303, que aparecerá no início do número de qualquer ligação que vise ofertar produtos ou serviços.
 

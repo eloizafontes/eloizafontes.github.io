@@ -5,6 +5,7 @@ classes: wide
 entries_layout: grid
 author_profile: true
 permalink: /posts/
-author_profile: false
+google-adsense-noshow:
+    sidebar_left: true
 ---
 
