@@ -4,6 +4,9 @@ title: NÃO ME PERTURBE - Como se cadastrar no site e BLOQUEAR LIGAÇÕES de TEL
 date: 2021-05-05 
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/ligacoes.jpg
+categories: 
 categories: 
     - Telemarketing
     - Ligações
