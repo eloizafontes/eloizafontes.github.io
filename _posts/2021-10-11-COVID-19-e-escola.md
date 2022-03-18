@@ -8,7 +8,7 @@ google-adsense-noshow:
     footer: true
 #comments: true
 header:
-  teaser: /assets/images/posts/covid-e-escola.png
+  teaser: /assets/images/posts/covid.jpg
 categories: 
     - COVID-19
     - Escola
