@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Resgate dinheiro esquecido nos bancos já está disponível Confira o passo a passo do Banco Central
+title: Resgate dinheiro esquecido nos bancos já está disponível 
 date: 2022-03-10 
 author_profile: true
 #comments: true
