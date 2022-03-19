@@ -4,6 +4,8 @@ title: Aprenda como usar o WhatsApp Web com celular desconectado ou desligado
 excerpt: Tutorial sobre o uso do WhatsApp Web
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/whatsapp-web.jpg
 categories: Tutoriais 
 ---
 
