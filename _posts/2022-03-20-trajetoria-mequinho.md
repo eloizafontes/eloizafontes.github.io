@@ -11,7 +11,6 @@ categories:
     - Esporte
     - Jogo
 
-
 ---
 
 {% include figure image_path="/assets/images/stock/mequinho.jpg" alt=""  %}
