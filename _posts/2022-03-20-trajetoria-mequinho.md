@@ -23,6 +23,6 @@ Na entrevista, Mequinho conta como iniciou no xadrez, destaca as conquistas que 
 
 Ele tem claro que sua missão é ser o Profeta do Apocalipse e explica o que precisa para alcançar esse propósito de vida.
 
-Quer saber mais?! Então, não perca e confira o vídeo até o final!
+Quer saber mais?! Então, não perca e confira o vídeo até o fim!
 
 {% include video id="xN6YNkCY1kA" provider="youtube" %}
