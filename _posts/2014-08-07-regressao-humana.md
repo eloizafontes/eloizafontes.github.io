@@ -4,6 +4,8 @@ title: Regressão Humana
 date: 2014-08-07 17:22
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/livro.jpg
 categories: Artigos
 ---
 
