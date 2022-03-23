@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Dica de livro "A Única Coisa"
+title: Dica de livro - "A Única Coisa"
 date: 2022-02-26 
 author_profile: true
 #comments: true
