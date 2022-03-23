@@ -4,6 +4,8 @@ title: Futebol - A política do pão e circo atual
 date: 2014-07-07 01:08
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/brasil-bola-de-futebol.jpg
 categories: Artigos
 ---
 
