@@ -7,9 +7,11 @@ author_profile: true
 header:
   teaser: /assets/images/posts/aumentar-nivel.jpg
 categories: 
-    - Xadrez
-    - Esporte
-    - Jogo
+    - Conta GOV.BR
+    - Nível conta
+    - Prata ou Ouro
+    - Banco Central
+    - Dinheiro esquecido nos bancos
 
 ---
 
