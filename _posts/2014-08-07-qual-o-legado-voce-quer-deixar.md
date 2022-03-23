@@ -4,6 +4,8 @@ title: Ayrton Senna - Inspiração de muitas gerações
 date: 2014-08-07 15:20
 author_profile: true
 comments: true
+header:
+  teaser: /assets/images/posts/senna.jpg
 categories: Inspiração
 ---
 
