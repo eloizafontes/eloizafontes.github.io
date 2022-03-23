@@ -8,6 +8,7 @@ header:
   teaser: /assets/images/posts/cringe.jpg
 categories: 
     - Cringe
+    
 ---
 
 {% include figure image_path="/assets/images/stock/cringe.jpg" alt=""  %}
