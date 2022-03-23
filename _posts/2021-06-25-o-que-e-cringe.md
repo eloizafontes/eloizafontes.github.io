@@ -7,7 +7,7 @@ author_profile: true
 header:
   teaser: /assets/images/posts/cringe.jpg
 categories: 
-    - testes
+    - Cringe
 ---
 
 {% include figure image_path="/assets/images/stock/cringe.jpg" alt=""  %}
