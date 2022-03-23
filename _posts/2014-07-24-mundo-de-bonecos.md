@@ -4,6 +4,8 @@ title: Mundo de bonecos
 date: 2014-07-24 01:31
 author_profile: true
 comments: true
+header:
+  teaser: /assets/images/posts/marionetes.jpg
 categories: Artigos
 ---
 
