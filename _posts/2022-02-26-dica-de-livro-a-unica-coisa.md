@@ -10,7 +10,7 @@ categories: Artigos
 
 ---
 
-{% include figure image_path="/assets/images/stock/livro-a-unica-coisa.jpg" alt=""  %}
+{% include figure image_path="/assets/images/stock/a-unica-coisa.png" alt=""  %}
 
 Você é multitarefa? Ou foca em uma única coisa e faz até terminar?
 
@@ -55,7 +55,7 @@ Abaixo, compartilho alguns dos insights que a leitura desse livro me proporciono
 
 Para comprar o livro, clique no link abaixo:
 
-
+https://amzn.to/3iylMcZ 
 
 
 
