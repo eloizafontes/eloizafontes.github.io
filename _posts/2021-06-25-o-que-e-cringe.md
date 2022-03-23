@@ -4,9 +4,13 @@ title: O que é cringe?
 date: 2021-06-25
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/cringe.jpg
 categories: 
     - testes
 ---
+
+{% include figure image_path="/assets/images/stock/cringe.jpg" alt=""  %}
 
 # E não é que que a expressão cringe viralizou na internet...
 
