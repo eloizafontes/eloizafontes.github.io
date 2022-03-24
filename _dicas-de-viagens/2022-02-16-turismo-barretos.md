@@ -22,7 +22,9 @@ A cidade é conhecida internacionalmente pela realização anual da Festa do Pe�
 Bora bora apertar o play para conferir este vídeo. Você vai gostar!
 
 Para saber mais sobre a história do Hospital do Amor, indico o livro escrito pelo diretor-presidente do hospital, Henrique Prata.
+
 ►Livro "Acima de tudo o Amor": https://amzn.to/3sJCQ4p
 
 Para saber mais da Festa do Peão de Barretos, indico os livros abaixo:
+
 ►Livro "Cavaleiro das Américas: https://amzn.to/3LHSQwg
