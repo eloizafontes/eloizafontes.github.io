@@ -15,11 +15,18 @@ I am a participant in the Amazon Services LLC Associates Program, an affiliate a
 
 {% include figure image_path="/assets/images/portfolio/headshot/jornalista.jpg" alt="" width="60%" %}
 
-Mestre pelo programa de pós-graduação em Televisão Digital: Informação e Conhecimento da Faculdade de Arquitetura, Artes e Comunicação (FAAC) da Universidade Estadual Paulista Júlio de Mesquita Filho (Unesp-Bauru). Graduou-se em Jornalismo também na FAAC da Unesp-Bauru. Foi bolsista de Iniciação Científica da Fapesp e estagiária da Assessoria de Comunicação e Imprensa (ACI) da FAAC. Atualmente, trabalha como repórter e apresentadora na emissora local TV Barretos.
+Mestre pelo programa de pós-graduação em Televisão Digital: Informação e Conhecimento da Faculdade de Arquitetura, Artes e Comunicação (FAAC) da Universidade Estadual Paulista Júlio de Mesquita Filho (Unesp-Bauru). Graduou-se em Jornalismo também na FAAC da Unesp-Bauru. Foi bolsista de Iniciação Científica da Fapesp e estagiária da Assessoria de Comunicação e Imprensa (ACI) da FAAC. 
+
+Com mais de 10 anos de experiência na área de Comunicação, atualmente, atuo com produção de conteúdo para mídias sociais com foco em estratégia de SEO.
+
+Trabalhei por cinco anos na área de Comunicação Corporativa, desempenhando, principalmente, funções de grande responsabilidade em Comunicação Interna em multinacional, liderando projetos internacionais, com interface na Argentina, Brasil, Chile, Colômbia, Paraguai e Uruguai.
+
+Tenho experiência em telejornalismo, atuando como repórter e apresentadora de programas jornalísticos e de entretenimento.
 
 Jornalista curiosa, apaixonada por história e pelo telejornalismo. Determinada a aprender sempre!
 
-# Por que Jornalismo
+
+# Por que Jornalismo?
 
 Jornalista formada, apaixonada pelos caminhos da reportagem...
 
