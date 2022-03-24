@@ -4,6 +4,8 @@ title: Casamento no hospital - uma história de amor
 date: 2014-12-11 11:18
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/casamento.jpg
 categories: 
     - Câncer
     - Casamento
