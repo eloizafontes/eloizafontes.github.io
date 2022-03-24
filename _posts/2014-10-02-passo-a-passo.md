@@ -4,6 +4,8 @@ title: Passo a passo
 date: 2014-10-02 03:10
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/desenho-caminhada.jpg
 categories: Passo a Passo
 ---
 
