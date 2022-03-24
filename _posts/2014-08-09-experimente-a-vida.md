@@ -4,6 +4,8 @@ title: Experimente a vida!
 date: 2014-08-09 20:48
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/momento-presente.jpg
 categories: Impressões
 ---
 
