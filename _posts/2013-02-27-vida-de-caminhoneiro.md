@@ -15,7 +15,7 @@ categories:
 
 {% include figure image_path="/assets/images/stock/caminhao.jpg" alt=""  %}
 
-A reportagem apresenta relatos de profissionais que passam por longos períodos longe de suas famílias enfrentando as estradas, nem sempre seguras, pelo país. 
+A reportagem abaixo apresenta relatos de profissionais que passam por longos períodos longe de suas famílias enfrentando as estradas, nem sempre seguras, pelo país. 
 
 Não é fácil a vida de caminhoneiro. 
 
