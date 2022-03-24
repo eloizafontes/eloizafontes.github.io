@@ -5,11 +5,10 @@ date: 2022-02-16
 author_profile: true
 #comments: true
 header:
-  teaser: /assets/images/posts/barrets.jpg
+  teaser: /assets/images/posts/barretos.jpg
 categories: 
-   - Hotel-fazenda
-   - Colina 
-   - Floresta dos Sonhos
+   - Barretos
+   - Pontos Turísticos
    - Turismo
    - Brasil
 ---
