@@ -4,6 +4,8 @@ title: Ela e Ele - final feliz?
 date: 2014-09-09 00:42
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/ele-ela.jpg
 categories: Crônicas e Contos
 ---
 
