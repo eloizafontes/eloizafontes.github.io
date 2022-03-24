@@ -4,6 +4,8 @@ title: Novas modalidades do PIX - Entenda como vai funcionar o PIX SAQUE e o PIX
 date: 2021-09-08 
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/pix.jpg
 categories: 
     - Novas modalidades
     - PIX
@@ -15,7 +17,9 @@ categories:
 {% include video id="x6XGjBV1zCI" provider="youtube" %}
 
 O Banco Central anunciou novidades: o PIX SAQUE e o PIX TROCO. 
-São novas modalidades do sistema de pagamento que irão permitir que as pessoas possam sacar dinheiro ou receber troco direto nos caixas de supermercados, padarias, e estabelecimentos comerciais! 
-O PIX SAQUE e o PIX TROCO poderão ser utilizados a partir do dia 29 de novembro deste ano.
 
-Quer saber mais desse assunto, então aperte o play e confira o vídeo até o final. Bora lá!
+São novas modalidades do sistema de pagamento que irão permitir que as pessoas possam sacar dinheiro ou receber troco direto nos caixas de supermercados, padarias, e estabelecimentos comerciais! 
+
+O PIX SAQUE e o PIX TROCO poderão ser utilizados a partir do dia 29 de novembro de 2021.
+
+Quer saber mais desse assunto, então aperte o play e confira o vídeo até o fim. Bora lá!
