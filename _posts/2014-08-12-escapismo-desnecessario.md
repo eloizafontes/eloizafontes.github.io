@@ -4,6 +4,8 @@ title: Escapismo desnecessário
 date: 2014-08-12 01:43
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/narco.jpg
 categories: Artigos
 ---
 
