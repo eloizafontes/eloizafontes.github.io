@@ -5,12 +5,15 @@ date: 2022-02-16
 author_profile: true
 #comments: true
 header:
-  teaser: /assets/images/posts/barretos.jpg
+  teaser: /assets/images/posts/roseta.jpg
 categories: 
    - Barretos
    - Pontos Turísticos
    - Turismo
    - Brasil
+   - Parque do Peão de Barretos
+   - Roseta
+   - Os Independentes
 ---
 
 {% include video id="lNZzoNo02Cs" provider="youtube" %}
