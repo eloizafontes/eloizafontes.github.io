@@ -15,7 +15,7 @@ categories:
 
 {% include video id="lNZzoNo02Cs" provider="youtube" %}
 
-Neste vídeo, você vai conhecer um pouquinho de Barretos e de seus principais pontos turísticos.
+Neste vídeo, você vai conhecer um pouquinho de Barretos (SP) e de seus principais pontos turísticos.
 
 A cidade é conhecida internacionalmente pela realização anual da Festa do Peão de Boiadeiro e por ser referência no tratamento de câncer, pois na cidade está localizado o Hospital do Amor, além do IRCAD, importante pólo de estudo sobre a doença.
 
