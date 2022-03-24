@@ -4,6 +4,8 @@ title: Como você lida com as frustrações?
 date: 2014-08-11 02:10
 author_profile: true
 #comments: true
+header:
+  teaser: /assets/images/posts/frustracoes.jpg
 categories: Impressões
 ---
 
