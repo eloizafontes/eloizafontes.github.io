@@ -5,11 +5,11 @@ excerpt: Tutorial sobre o uso do WhatsApp Web
 author_profile: true
 #comments: true
 header:
-  teaser: /assets/images/posts/whatsapp-web.jpg
+  teaser: /assets/images/posts/whats.jpg
 categories: Tutoriais 
 ---
 
-{% include figure image_path="\assets\images\stock\whatsapp.jpg" alt=""  %}
+{% include figure image_path="\assets\images\stock\whats.jpg" alt=""  %}
 
 Você sabia que já é possível acessar o WhatsApp no computador mesmo se o smartphone estiver sem acesso à internet ou desligado?! Interessante, não? 
 
