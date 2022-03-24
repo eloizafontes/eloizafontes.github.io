@@ -20,7 +20,7 @@ Neste vídeo, você vai conhecer um pouquinho de Barretos e de seus principais p
 
 A cidade é conhecida internacionalmente pela realização anual da Festa do Peão de Boiadeiro e por ser referência no tratamento de câncer, pois na cidade está localizado o Hospital do Amor, além do IRCAD, importante pólo de estudo sobre a doença.
 
-Bora bora apertar o play para conferir este vídeo. você vai gostar!
+Bora bora apertar o play para conferir este vídeo. Você vai gostar!
 
 Para saber mais sobre a história do Hospital do Amor, indico o livro escrito pelo diretor-presidente do hospital, Henrique Prata.
 ►Livro "Acima de tudo o Amor": https://amzn.to/3sJCQ4p
