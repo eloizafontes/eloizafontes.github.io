@@ -9,7 +9,7 @@ header:
 categories: Tutoriais 
 ---
 
-{% include figure image_path="\assets\images\stock\whats.jpg" alt=""  %}
+{% include figure image_path="/assets/images/stock/whats.jpg" alt=""  %}
 
 Você sabia que já é possível acessar o WhatsApp no computador mesmo se o smartphone estiver sem acesso à internet ou desligado?! Interessante, não? 
 
