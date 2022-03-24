@@ -19,6 +19,4 @@ A reportagem abaixo apresenta relatos de profissionais que passam por longos per
 
 Não é fácil a vida de caminhoneiro. 
 
-A matéria foi exibida no dia 27 de fevereiro de 2013 nos telejornais da TV Barretos.
-
 {% include video id="cgn1_0IsUGg" provider="youtube" %}
