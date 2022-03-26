@@ -25,37 +25,37 @@ VEJA O NOVO CALENDÁRIO DOS VALORES A RECEBER
 
 Ano de nascimento - Dia em que irá receber
 
-Até 1947 28 de março
+Até 1947 - 28 de março
 
-1948 a 1954 29 de março
+1948 a 1954 - 29 de março
 
-1955 a 1959 30 de março
+1955 a 1959 - 30 de março
 
-1960 a 1963 31 de março
+1960 a 1963 - 31 de março
 
-1964 a 1967 1º de abril
+1964 a 1967 - 1º de abril
 
-1968 a 1971 4 de abril
+1968 a 1971 - 4 de abril
 
-1972 a 1975 5 de abril
+1972 a 1975 - 5 de abril
 
-1976 a 1979 6 de abril
+1976 a 1979 - 6 de abril
 
-1980 a 1981 7 de abril
+1980 a 1981 - 7 de abril
 
-1982 a 1983 8 de abril
+1982 a 1983 - 8 de abril
 
-1984 a 1985 11 de abril
+1984 a 1985 - 11 de abril
 
-1986 a 1988 12 de abril
+1986 a 1988 - 12 de abril
 
-1989 a 1992 13 de abril
+1989 a 1992 - 13 de abril
 
-1993 a 1997 14 de abril
+1993 a 1997 - 14 de abril
 
-1988 em diante 15 de abril
+1988 em diante - 15 de abril
 
-Nos sábados do mês de abril, 2, 9 e 16, o cidadão poderá fazer a repescagem, caso não tenha retirado os valores na data previsto para o seu ano ou ano de abertura de sua empresa.
+Nos sábados do mês de abril (2, 9 e 16), o cidadão poderá fazer a repescagem, caso não tenha retirado os valores na data prevista para o seu ano ou ano de abertura de sua empresa.
 
 Segundo o Banco Central, após a conclusão desse novo ciclo de agendamentos, a partir do dia 17 de abril, haverá nova reformulação do sistema. O período de mudanças vai durar até o início de mais. A partir do dia 2, haverá a abertura de novas consultas.
 
@@ -65,13 +65,14 @@ Nesta nova fase, é possível que quem já resgatou dinheiro anteriormente possa
 
 O que será liberado na segunda fase:
 
-Valores de contas-correntes ou de poupanças encerradas, com saldo disponível
+-Valores de contas-correntes ou de poupanças encerradas, com saldo disponível.
 
-Tarifas e parcelas ou obrigações relativas a operações de crédito cobradas indevidamente, desde que a devolução esteja prevista em termo de compromisso assinado pelo banco com o BC
+-Tarifas e parcelas ou obrigações relativas a operações de crédito cobradas indevidamente, desde que a devolução esteja prevista em termo de compromisso assinado pelo banco com o BC.
 
-Cotas de capital e rateio de sobras líquidas de beneficiários e participantes de cooperativas de crédito
+-Cotas de capital e rateio de sobras líquidas de beneficiários e participantes de cooperativas de crédito.
 
-Recursos não procurados relativos a grupos de consórcio encerrados.
+-Recursos não procurados relativos a grupos de consórcio encerrados.
+
 
 Quase 3 milhões fizeram o saque dos valores
 
