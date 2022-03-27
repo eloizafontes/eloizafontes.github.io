@@ -5,13 +5,13 @@ date: 2022-03-24
 author_profile: true
 #comments: true
 header:
-  teaser: /assets/images/posts/triade-deo-tempo.jpg
+  teaser: /assets/images/posts/triade-tempo.jpg
 categories: 
     - Dica de Livro
     - A Tríade do Tempo
 ---
 
-{% include figure image_path="/assets/images/stock/triade-do-tempo.jpg" alt=""  %}
+{% include figure image_path="/assets/images/stock/triade-tempo.jpg" alt=""  %}
 
 Você tem conseguido ter uma vida equilibrada? Está olhando para todas as áreas? Aproveitando bem o tempo e vivendo de forma produtiva, com intuito de sempre evoluir, melhorar o desempenho e não desperdiçar energia na esfera errada ou com o que não controla?
 
