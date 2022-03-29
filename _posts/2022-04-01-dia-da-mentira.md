@@ -5,7 +5,7 @@ date: 2022-03-28
 author_profile: true
 #comments: true
 header:
-  teaser: /assets/images/posts/iphone.jpg
+  teaser: /assets/images/posts/pinoquio.jpg
 categories: 
     - 1° de abril
     - Dia da Mentira
@@ -13,7 +13,7 @@ categories:
     - Curiosidade
 ---
 
-{% include figure image_path="/assets/images/stock/iphone.jpg" alt=""  %}
+{% include figure image_path="/assets/images/stock/pinoquio.jpg" alt=""  %}
 
 
 1º de abril - De onde surgiu o Dia da Mentira?
