@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Henrique Mecking lança seu 3° livro - "Partidas e Finais de Xadrez do Grande Mestre Mequinho"
-date: 2022-03-28
+date: 2021-12-01
 author_profile: true
 #comments: true
 header:
