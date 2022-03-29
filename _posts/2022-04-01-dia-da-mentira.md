@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 1º de abril é o Dia da Mentira - Entenda o motivo!
-date: 2022-0304-01
+date: 2022-04-01
 author_profile: true
 #comments: true
 header:
