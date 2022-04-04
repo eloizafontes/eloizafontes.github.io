@@ -5,13 +5,13 @@ date: 2022-04-04
 author_profile: true
 #comments: true
 header:
-  teaser: /assets/images/posts/fgts.jpeg
+  teaser: /assets/images/posts/fgts.jpg
 categories: 
     - Saque Extraordinário
     - FGTS
 ---
 
-{% include figure image_path="/assets/images/stock/fgts.jpeg" alt=""  %}
+{% include figure image_path="/assets/images/stock/fgts.jpg" alt=""  %}
 
 O saque extraordinário de até R$ 1.000 do FGTS (Fundo de Garantia do Tempo de Serviço) começará a ser liberado pela Caixa Econômica Federal depois da Páscoa. O calendário de retiradas vai do dia 20 de abril até 20 de junho.
 
