@@ -97,4 +97,4 @@ Para guardar os dados, clique em "Gerar extrato PDF" e salve em seu celular
 
 Para ver todas as empresas nas quais trabalhou, vá em "Ver todas as suas contas"
 
-O último depósito bancário estará informado na tela inicial, no quadro cinza
+O último depósito bancário estará informado na tela inicial, no quadro cinza.
