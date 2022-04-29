@@ -50,6 +50,6 @@ Expectativa
  
 De acordo com Jeronimo, a expectativa pela realização do evento é grande. "Estamos há dois anos sem promover o Motorcycles por conta da pandemia e tivemos um apoio forte da comunidade e do setor para essa retomada. Temos as melhores expectativas e vamos atender a todas as determinações de segurança que estiverem vigentes no período", afirma.
 
-Para saber mais do evento e adquirir ingressos, acesse o site de [Os Independentes] ( https://www.independentes.com.br/motorcycles/programacao#conteudo )
+Para saber mais do evento e adquirir ingressos, acesse o site de [Os Independentes]( https://www.independentes.com.br/motorcycles/programacao#conteudo )
 
-Fonte: site [Os Independentes] ( https://www.independentes.com.br/motorcycles/programacao#conteudo )
+Fonte: site [Os Independentes]( https://www.independentes.com.br/motorcycles/programacao#conteudo )
