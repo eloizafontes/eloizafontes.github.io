@@ -9,8 +9,6 @@ google-adsense-noshow:
     sidebar_right: true
     footer: true
 ---
-I am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon sites.
-{: .notice--info}
 
 
 {% include figure image_path="/assets/images/portfolio/headshot/jornalista.jpg" alt="" width="60%" %}
@@ -42,3 +40,8 @@ Meu TCC foi sobre TV, minha Iniciação Científica da Fapesp também e o Mestra
 
 Hoje sou repórter e apresentadora da TV Barretos, nome que recebeu em 2007 aquela emissora local que muito influenciou na escolha da minha profissão em 2004. No dia 21 de março de 2013 completo dois anos como funcionária da TV Barretos. Esse só é o começo desta profissional que ama o que faz!
 
+
+
+
+I am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon sites.
+{: .notice--info}
