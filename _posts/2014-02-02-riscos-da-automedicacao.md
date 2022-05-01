@@ -7,7 +7,8 @@ author_profile: true
 header:
   teaser: /assets/images/posts/automedicacao.jpeg
 categories: 
-   - Artigos
+   - Artigo
+tags:
    - Automedicação
    - Remédios
    - Saúde

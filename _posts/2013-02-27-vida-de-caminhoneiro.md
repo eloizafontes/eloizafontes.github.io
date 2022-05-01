@@ -7,8 +7,9 @@ author_profile: true
 header:
   teaser: /assets/images/posts/caminhao.jpg
 categories: 
-   - Artigos
+   - Artigo
    - Reportagem
+tags:
    - Vida de Caminhoneiro
    - Caminhoneiros
 ---

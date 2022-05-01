@@ -7,5 +7,6 @@ author_profile: true
 permalink: /posts/
 google-adsense-noshow:
     sidebar_left: true
+    footer: false
 ---
 
