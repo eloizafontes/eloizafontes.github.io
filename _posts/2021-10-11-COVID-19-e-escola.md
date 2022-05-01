@@ -10,11 +10,11 @@ google-adsense-noshow:
 header:
   teaser: /assets/images/posts/covid.jpg
 categories: 
-    - COVID-19
-    - Escola
-    - Vacinação
-    - Medidas preventivas
-    
+tags:
+  - COVID-19
+  - Escola
+  - Vacinação
+  - Medidas preventivas  
 ---
 
 {% include video id="14SOwrELxYc" provider="youtube" %}

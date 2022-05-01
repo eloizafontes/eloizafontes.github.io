@@ -7,11 +7,12 @@ author_profile: true
 header:
   teaser: /assets/images/posts/livro-mequinho.jpg
 categories: 
-    - Xadrez
-    - Henrique Mecking
-    - Mequinho
-    - Livros de Xadrez
-    - Grande Mestre de Xadrez
+tags:
+  - Xadrez
+  - Henrique Mecking
+  - Mequinho
+  - Livros de Xadrez
+  - Grande Mestre de Xadrez
 ---
 
 {% include video id="R2KhHirBmN4" provider="youtube" %}

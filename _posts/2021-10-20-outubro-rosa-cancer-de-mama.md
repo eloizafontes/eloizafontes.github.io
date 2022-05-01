@@ -7,11 +7,12 @@ author_profile: true
 header:
   teaser: /assets/images/posts/outubro-rosa.png
 categories: 
-    - Outubro Rosa
-    - Prevenção
-    - Diagnóstico Precoce
-    - Câncer de Mama
-    - Mamografia
+tags:
+  - Outubro Rosa
+  - Prevenção
+  - Diagnóstico Precoce
+  - Câncer de Mama
+  - Mamografia
     
 ---
 

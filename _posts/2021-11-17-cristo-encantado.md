@@ -6,13 +6,14 @@ author_profile: true
 header:
   teaser: /assets/images/posts/cristo-encantado.jpg
 categories: 
-   - Viagem 
-   - Cristo Protetor
-   - Encantado
-   - Rio Grande do Sul
-   - Turismo Religioso
-   - Turismo
-   - Brasil
+  - Viagem 
+tags:
+  - Cristo Protetor
+  - Encantado
+  - Rio Grande do Sul
+  - Turismo Religioso
+  - Turismo
+  - Brasil
 ---
 
 {% include figure image_path="/assets/images/stock/cristo.jpg" alt=""  %}

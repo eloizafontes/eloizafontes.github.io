@@ -7,11 +7,12 @@ author_profile: true
 header:
   teaser: /assets/images/posts/real-digital.jpg
 categories: 
-    - Real Digital
-    - Criptomeda
-    - Moeda brasileira
-    - Banco Central
-    - Economia
+tags:
+  - Real Digital
+  - Criptomeda
+  - Moeda brasileira
+  - Banco Central
+  - Economia
 ---
 
 {% include video id="awGvQ9g_abA" provider="youtube" %}

@@ -7,10 +7,11 @@ author_profile: true
 header:
   teaser: /assets/images/posts/pix.jpg
 categories: 
-    - Novas modalidades
-    - PIX
-    - PIX Saque
-    - PIX Troco
+tags:
+  - Novas modalidades
+  - PIX
+  - PIX Saque
+  - PIX Troco
     
 ---
 

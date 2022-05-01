@@ -6,8 +6,8 @@ author_profile: true
 #comments: true
 header:
   teaser: /assets/images/posts/golpes-whatsapp.jpg
-categories: Artigos
-
+categories:
+  - Artigo
 ---
 
 {% include video id="LmvCcIWeUyA" provider="youtube" %}

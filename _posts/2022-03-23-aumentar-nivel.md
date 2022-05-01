@@ -7,12 +7,12 @@ author_profile: true
 header:
   teaser: /assets/images/posts/aumentar-nivel.jpg
 categories: 
-    - Conta GOV.BR
-    - Nível conta
-    - Prata ou Ouro
-    - Banco Central
-    - Dinheiro esquecido nos bancos
-
+tags:
+  - Conta GOV.BR
+  - Nível conta
+  - Prata ou Ouro
+  - Banco Central
+  - Dinheiro esquecido nos bancos
 ---
 
 {% include figure image_path="/assets/images/stock/aumentar-nivel.jpg" alt=""  %}

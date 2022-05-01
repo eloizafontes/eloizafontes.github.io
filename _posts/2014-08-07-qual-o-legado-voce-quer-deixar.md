@@ -6,7 +6,9 @@ author_profile: true
 comments: true
 header:
   teaser: /assets/images/posts/senna.jpg
-categories: Inspiração
+categories: 
+tags: 
+    - Inspiração
 ---
 
 {% include figure image_path="/assets/images/stock/ayrton.jpg" alt=""  %}

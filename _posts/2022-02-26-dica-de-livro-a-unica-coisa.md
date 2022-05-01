@@ -6,8 +6,9 @@ author_profile: true
 #comments: true
 header:
   teaser: /assets/images/posts/a-unica-coisa.png
-categories: Artigos
-
+categories:
+  - Artigo
+tags:
 ---
 
 {% include figure image_path="/assets/images/stock/a-unica-coisa.png" alt=""  %}

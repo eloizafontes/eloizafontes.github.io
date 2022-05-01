@@ -6,7 +6,8 @@ author_profile: true
 #comments: true
 header:
   teaser: /assets/images/posts/ceagesp.jpg
-categories: Reportagens
+categories:
+  - Reportagem
 ---
 
 {% include figure image_path="/assets/images/stock/img_20140816_113237806_hdr1.jpg" alt=""  %}

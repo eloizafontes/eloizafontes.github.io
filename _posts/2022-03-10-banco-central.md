@@ -7,11 +7,11 @@ author_profile: true
 header:
   teaser: /assets/images/posts/valores-bc.jpg
 categories: 
-    - Resgate dinheiro esquecido
-    - Banco Central
-    - Dinheiro
-    - Economia
-
+tags:
+  - Resgate dinheiro esquecido
+  - Banco Central
+  - Dinheiro
+  - Economia
 ---
 
 {% include figure image_path="/assets/images/stock/dinheiro.jpg" alt=""  %}

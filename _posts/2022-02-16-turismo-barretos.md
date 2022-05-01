@@ -6,14 +6,15 @@ author_profile: true
 header:
   teaser: /assets/images/posts/roseta.jpg
 categories: 
-   - Viagem
-   - Barretos
-   - Pontos Turísticos
-   - Turismo
-   - Brasil
-   - Parque do Peão de Barretos
-   - Roseta
-   - Os Independentes
+  - Viagem
+tags:
+  - Barretos
+  - Pontos Turísticos
+  - Turismo
+  - Brasil
+  - Parque do Peão de Barretos
+  - Roseta
+  - Os Independentes
 ---
 
 {% include video id="lNZzoNo02Cs" provider="youtube" %}

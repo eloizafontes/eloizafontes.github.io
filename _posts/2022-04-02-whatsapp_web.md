@@ -6,7 +6,8 @@ date: 2022-04-02
 author_profile: true
 header:
   teaser: /assets/images/posts/whats.jpg
-categories: Tutorial
+categories: 
+  - Tutorial
 ---
 
 {% include figure image_path="/assets/images/stock/whats.jpg" alt=""  %}

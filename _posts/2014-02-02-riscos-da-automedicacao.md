@@ -7,11 +7,11 @@ author_profile: true
 header:
   teaser: /assets/images/posts/automedicacao.jpeg
 categories: 
-   - Artigo
+  - Artigo
 tags:
-   - Automedicação
-   - Remédios
-   - Saúde
+  - Automedicação
+  - Remédios
+  - Saúde
 ---
 
 {% include figure image_path="/assets/images/stock/automedicacao.jpeg" alt=""  %}

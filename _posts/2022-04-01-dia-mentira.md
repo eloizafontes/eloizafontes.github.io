@@ -6,11 +6,12 @@ author_profile: true
 #comments: true
 header:
   teaser: /assets/images/posts/pinoquio.jpeg
-categories: 
-    - 1° de abril
-    - Dia da Mentira
-    - História
-    - Curiosidade
+categories:
+tags:
+  - 1° de abril
+  - Dia da Mentira
+  - História
+  - Curiosidade
 ---
 
 {% include figure image_path="/assets/images/stock/pinoquio.jpeg" alt=""  %}

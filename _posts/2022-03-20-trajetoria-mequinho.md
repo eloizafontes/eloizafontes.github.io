@@ -6,11 +6,11 @@ author_profile: true
 #comments: true
 header:
   teaser: /assets/images/posts/mequinho.jpg
-categories: 
-    - Xadrez
-    - Esporte
-    - Jogo
-
+categories:
+tags:
+  - Xadrez
+  - Esporte
+  - Jogo
 ---
 
 {% include figure image_path="/assets/images/stock/mequinho.jpg" alt=""  %}

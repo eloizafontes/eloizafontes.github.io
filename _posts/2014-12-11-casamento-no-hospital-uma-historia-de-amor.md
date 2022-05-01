@@ -7,10 +7,11 @@ author_profile: true
 header:
   teaser: /assets/images/posts/casamento.jpg
 categories: 
-    - Câncer
-    - Casamento
-    - Hospital de Câncer de Barretos
-    - Hospital São Judas
+tags:
+  - Câncer
+  - Casamento
+  - Hospital de Câncer de Barretos
+  - Hospital São Judas
 ---
 
 {% include video id="jEIkoBgRRsk" provider="youtube" %}

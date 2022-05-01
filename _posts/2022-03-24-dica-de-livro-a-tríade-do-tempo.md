@@ -6,9 +6,10 @@ author_profile: true
 #comments: true
 header:
   teaser: /assets/images/posts/triade-tempo.jpg
-categories: 
-    - Dica de Livro
-    - A Tríade do Tempo
+categories:
+tags:
+  - Dica de Livro
+  - A Tríade do Tempo
 ---
 
 {% include figure image_path="/assets/images/stock/triade-tempo.jpg" alt=""  %}

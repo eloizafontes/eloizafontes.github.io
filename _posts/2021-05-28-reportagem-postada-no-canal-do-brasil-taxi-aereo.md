@@ -6,7 +6,8 @@ author_profile: true
 #comments: true
 header:
   teaser: /assets/images/posts/uti-aerea.jpg
-categories: Reportagens
+categories: 
+  - Reportagem
 ---
 
 Reportagem postada no canal do Brasil Táxi Aéreo 

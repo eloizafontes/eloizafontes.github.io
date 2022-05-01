@@ -6,7 +6,8 @@ author_profile: true
 #comments: true
 header:
   teaser: /assets/images/posts/ele-ela.jpg
-categories: Crônicas e Contos
+categories:
+  - Contos
 ---
 
 {% include figure image_path="/assets/images/stock/sonhadora.jpg" alt=""  %}

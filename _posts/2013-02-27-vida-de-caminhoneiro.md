@@ -7,11 +7,11 @@ author_profile: true
 header:
   teaser: /assets/images/posts/caminhao.jpg
 categories: 
-   - Artigo
-   - Reportagem
+  - Artigo
+  - Reportagem
 tags:
-   - Vida de Caminhoneiro
-   - Caminhoneiros
+  - Vida de Caminhoneiro
+  - Caminhoneiros
 ---
 
 {% include figure image_path="/assets/images/stock/caminhao.jpg" alt=""  %}

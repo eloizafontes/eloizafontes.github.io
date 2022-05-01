@@ -7,10 +7,10 @@ author_profile: true
 header:
   teaser: /assets/images/posts/ligacoes.jpg
 categories: 
-categories: 
-    - Telemarketing
-    - Ligações
-    - Não me perturbe
+tags: 
+  - Telemarketing
+  - Ligações
+  - Não me perturbe
     
 ---
 

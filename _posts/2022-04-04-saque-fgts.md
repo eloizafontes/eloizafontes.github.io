@@ -6,9 +6,10 @@ author_profile: true
 #comments: true
 header:
   teaser: /assets/images/posts/fgts.jpg
-categories: 
-    - Saque Extraordinário
-    - FGTS
+categories:
+tags:
+  - Saque Extraordinário
+  - FGTS
 ---
 
 {% include figure image_path="/assets/images/stock/fgts.jpg" alt=""  %}

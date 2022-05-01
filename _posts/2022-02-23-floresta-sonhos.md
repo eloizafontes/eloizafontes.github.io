@@ -6,12 +6,13 @@ author_profile: true
 header:
   teaser: /assets/images/posts/floresta-sonhos.jpg
 categories: 
-   - Viagem
-   - Hotel-fazenda
-   - Colina 
-   - Floresta dos Sonhos
-   - Turismo
-   - Brasil
+  - Viagem
+tags:
+  - Hotel-fazenda
+  - Colina 
+  - Floresta dos Sonhos
+  - Turismo
+  - Brasil
 ---
 
 {% include video id="Xy9IaINxi4k" provider="youtube" %}

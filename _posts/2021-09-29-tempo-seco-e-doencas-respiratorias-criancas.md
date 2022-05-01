@@ -7,11 +7,11 @@ author_profile: true
 header:
   teaser: /assets/images/posts/tempo-seco.jpg
 categories: 
-    - Tempo Seco
-    - Crianças
-    - Doenças Respiratórias
-    - Medidas preventivas
-    
+tags:
+  - Tempo Seco
+  - Crianças
+  - Doenças Respiratórias
+  - Medidas preventivas 
 ---
 
 {% include video id="k-KAexf1dLI" provider="youtube" %}

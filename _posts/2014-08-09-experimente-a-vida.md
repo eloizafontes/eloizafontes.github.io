@@ -6,7 +6,9 @@ author_profile: true
 #comments: true
 header:
   teaser: /assets/images/posts/momento-presente.jpg
-categories: Impressões
+categories: 
+tags:
+  - Impressões
 ---
 
 {% include figure image_path="/assets/images/stock/momento-presente.jpg" alt=""  %}

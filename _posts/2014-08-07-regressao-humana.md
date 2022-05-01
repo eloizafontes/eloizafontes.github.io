@@ -6,7 +6,8 @@ author_profile: true
 #comments: true
 header:
   teaser: /assets/images/posts/livro.jpg
-categories: Artigos
+categories: 
+  - Artigo
 ---
 
 > "Quem não se comunica, se trumbica." Chacrinha

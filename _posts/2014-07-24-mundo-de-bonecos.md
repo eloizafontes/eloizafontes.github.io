@@ -6,7 +6,8 @@ author_profile: true
 comments: true
 header:
   teaser: /assets/images/posts/marionetes.jpg
-categories: Artigos
+categories: 
+  - Artigo
 ---
 
 {% include figure image_path="/assets/images/stock/marionetes.jpg" alt=""  %}

@@ -6,11 +6,12 @@ author_profile: true
 #comments: true
 header:
   teaser: /assets/images/posts/motorcycles.jpg
-categories: 
-    - Motorcycles
-    - Barretos Motorcycles
-    - Parque do Peão de Barretos
-    - Parque do Peão
+categories:
+tags:
+  - Motorcycles
+  - Barretos Motorcycles
+  - Parque do Peão de Barretos
+  - Parque do Peão
 ---
 
 {% include figure image_path="/assets/images/stock/motorcycles.jpg" alt=""  %}

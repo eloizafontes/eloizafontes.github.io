@@ -7,9 +7,10 @@ author_profile: true
 header:
   teaser: /assets/images/posts/mitos-verdades-islamismo.jpg
 categories: 
-    - Religião
-    - Islamismo
-    - Mitos e Verdades
+tags:
+  - Religião
+  - Islamismo
+  - Mitos e Verdades
 ---
 
 {% include video id="yvnFQj_XlUw" provider="youtube" %}

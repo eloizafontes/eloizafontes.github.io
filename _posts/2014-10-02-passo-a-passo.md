@@ -6,7 +6,9 @@ author_profile: true
 #comments: true
 header:
   teaser: /assets/images/posts/desenho-caminhada.jpg
-categories: Passo a Passo
+categories: 
+tags:
+  - Passo a Passo
 ---
 
 {% include figure image_path="/assets/images/stock/desenho-caminhada.jpg" alt=""  %}

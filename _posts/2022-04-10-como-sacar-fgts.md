@@ -6,7 +6,8 @@ date: 2022-04-10
 author_profile: true
 header:
   teaser: /assets/images/posts/saque-extraordinario-fgts.jpg
-categories: Tutorial 
+categories: 
+  - Tutorial 
 ---
 
 {% include figure image_path="/assets/images/stock/saque-extraordinario-fgts.jpg" alt=""  %}

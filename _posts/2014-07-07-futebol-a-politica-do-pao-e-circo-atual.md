@@ -6,7 +6,8 @@ author_profile: true
 #comments: true
 header:
   teaser: /assets/images/posts/brasil-bola-de-futebol.jpg
-categories: Artigos
+categories: 
+  - Artigo
 ---
 
 {% include figure image_path="/assets/images/stock/brasil-bola-de-futebol.jpg" alt=""  %}

@@ -7,8 +7,8 @@ author_profile: true
 header:
   teaser: /assets/images/posts/cringe.jpg
 categories: 
-    - Cringe
-    
+tags:
+  - Cringe  
 ---
 
 {% include figure image_path="/assets/images/stock/cringe.jpg" alt=""  %}
