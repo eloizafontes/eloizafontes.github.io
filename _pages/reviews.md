@@ -1,11 +1,12 @@
 ---
-title: "Reviews"
-layout: collection
-classes: wide
-entries_layout: grid
+title: Reviews
+layout: category
 permalink: /reviews/
+taxonomy: Review
+entries_layout: grid
+classes: wide
 author_profile: true
 google-adsense-noshow:
     sidebar_left: true
+    footer: false
 ---
-

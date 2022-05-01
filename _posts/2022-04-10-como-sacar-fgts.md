@@ -2,11 +2,11 @@
 layout: single
 title: Saque do FGTS - Como consultar se posso retirar até R$ 1.000
 excerpt: Tutorial sobre como consultar se posso retirar até R$ 1.000
+date: 2022-04-10
 author_profile: true
-#comments: true
 header:
   teaser: /assets/images/posts/saque-extraordinario-fgts.jpg
-categories: Tutoriais 
+categories: Tutorial 
 ---
 
 {% include figure image_path="/assets/images/stock/saque-extraordinario-fgts.jpg" alt=""  %}

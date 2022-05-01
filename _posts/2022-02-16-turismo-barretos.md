@@ -3,10 +3,10 @@ layout: single
 title: Conheça alguns dos principais pontos turísticos da Capital do Rodeio, BARRETOS
 date: 2022-02-16
 author_profile: true
-#comments: true
 header:
   teaser: /assets/images/posts/roseta.jpg
 categories: 
+   - Viagem
    - Barretos
    - Pontos Turísticos
    - Turismo

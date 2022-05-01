@@ -8,10 +8,11 @@ header:
   teaser: /assets/images/posts/tirar-passaporte.jpg
 categories: 
     - Passaporte
-    - Viagens
+    - Viagem
     - Polícia Federal
     - Documento de Viagem
     - Turismo
+    - Tutorial
 ---
 
 {% include video id="Dw8kSEX_Gf8" provider="youtube" %}

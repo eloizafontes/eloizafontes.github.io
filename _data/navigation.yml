@@ -2,12 +2,12 @@
 main:
    - title: "Posts"
      url: /posts/
-   - title: "Tutorials"
-     url: /tutorials/
+   - title: "Tutoriais"
+     url: /tutoriais/
 #   - title: "Portfolio"
 #     url: /portfolio/
-   - title: "Reviews"
-     url: /reviews/
+#   - title: "Reviews"
+#     url: /reviews/
    - title: "Dicas de Viagens"
      url: /dicas-de-viagens/
    - title: "Store"

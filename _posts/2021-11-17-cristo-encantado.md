@@ -3,10 +3,10 @@ layout: single
 title: Novo Cartão-Postal - Saiba mais sobre o maior do Brasil, CRISTO PROTETOR de ENCANTADO (RS)
 date: 2021-11-17
 author_profile: true
-#comments: true
 header:
   teaser: /assets/images/posts/cristo-encantado.jpg
 categories: 
+   - Viagem 
    - Cristo Protetor
    - Encantado
    - Rio Grande do Sul

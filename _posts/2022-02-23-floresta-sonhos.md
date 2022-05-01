@@ -3,10 +3,10 @@ layout: single
 title: Conheça o hotel-fazenda FLORESTA DOS SONHOS
 date: 2022-02-23
 author_profile: true
-#comments: true
 header:
   teaser: /assets/images/posts/floresta-sonhos.jpg
 categories: 
+   - Viagem
    - Hotel-fazenda
    - Colina 
    - Floresta dos Sonhos
