@@ -7,6 +7,7 @@ author_profile: true
 header:
   teaser: /assets/images/posts/aumentar-nivel.jpg
 categories: 
+  - Tutorial
 tags:
   - Conta GOV.BR
   - Nível conta

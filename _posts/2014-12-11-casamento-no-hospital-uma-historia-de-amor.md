@@ -6,7 +6,8 @@ author_profile: true
 #comments: true
 header:
   teaser: /assets/images/posts/casamento.jpg
-categories: 
+categories:
+  - Reportagem 
 tags:
   - Câncer
   - Casamento

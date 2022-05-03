@@ -7,7 +7,7 @@ author_profile: true
 header:
   teaser: /assets/images/posts/golpes-whatsapp.jpg
 categories:
-  - Artigo
+  - Tutorial
 ---
 
 {% include video id="LmvCcIWeUyA" provider="youtube" %}

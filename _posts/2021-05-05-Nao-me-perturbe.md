@@ -7,6 +7,7 @@ author_profile: true
 header:
   teaser: /assets/images/posts/ligacoes.jpg
 categories: 
+  - Tutorial
 tags: 
   - Telemarketing
   - Ligações

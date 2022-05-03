@@ -7,6 +7,7 @@ author_profile: true
 header:
   teaser: /assets/images/posts/bc.jpg
 categories:
+  - Tutorial
 tag: 
   - Conta GOV.BR
   - Nível conta
