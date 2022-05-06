@@ -26,3 +26,12 @@ Ele tem claro que sua missão é ser o Profeta do Apocalipse e explica o que pre
 Quer saber mais?! Então, não perca e confira o vídeo até o fim!
 
 {% include video id="xN6YNkCY1kA" provider="youtube" %}
+
+
+*Ao todo, Mequinho escreveu 3 livros:
+
+-Como Jesus Cristo salvou a minha vida
+
+-[Mequinho, o xadrez de um Grande Mestre]( https://amzn.to/3s1UMZ5 ) - disponível para venda no site da Amazon
+
+-Partidas e Finais de Xadrez do Grande Mestre Mequinho
