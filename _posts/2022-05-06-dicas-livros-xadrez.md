@@ -28,3 +28,7 @@ Tem Kindle? Então, aproveita que os livros de xadrez abaixo podem ser baixados 
 - [Xadrez e Matemática: análise de aberturas para iniciantes]( https://amzn.to/37mFwOF )
 
 - [DAMP: O Algoritmo que vai Revolucionar sua Tática no Xadrez]( https://amzn.to/3vQO0ar )
+
+Não tem Kindle? Bora adquirir porque é muito útil!
+
+[Kindle 10a. geração com bateria de longa duração - Cor Preta]( https://amzn.to/3wcwCMb )
