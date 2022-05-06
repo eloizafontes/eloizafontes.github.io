@@ -11,6 +11,9 @@ tags:
   - Xadrez
   - Esporte
   - Jogo
+  - Grande Mestre Internacional de Xadrez
+  - Henrique Mecking
+  - Mequinho
 ---
 
 {% include figure image_path="/assets/images/stock/mequinho.jpg" alt=""  %}
