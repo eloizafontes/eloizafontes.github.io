@@ -7,7 +7,7 @@ author_profile: true
 header:
   teaser: /assets/images/posts/motorcycles.jpg
 categories:
-  - Dicas de Viagens
+  - Viagem
 tags:
   - Motorcycles
   - Barretos Motorcycles
