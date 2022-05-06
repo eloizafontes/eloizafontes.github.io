@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Barretos Motorcycles acontece de 29 de abril a 01 de maio no Parque do Peão de Barretos (SP)
+title: Barretos Motorcycles 2022 acontece de 29 de abril a 01 de maio 
 date: 2022-04-26
 author_profile: true
 #comments: true
