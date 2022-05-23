@@ -241,6 +241,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-admin
+  - jekyll-compress-images
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -249,6 +250,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-compress-images
 
 
 # Archives
@@ -286,6 +288,10 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Image Compression
+compress_images:
+  images_path: "/assets/images/**/*.{gif,png,jpg,jpeg,svg}"
 
 
 # Collections
