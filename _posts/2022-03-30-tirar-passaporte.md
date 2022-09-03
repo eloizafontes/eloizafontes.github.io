@@ -20,9 +20,9 @@ tags:
 
 Tirar o passaporte é o primeiro passo para sua viagem internacional a qualquer outro país fora da América do Sul. 
 
-É um documento de viagem aceito no mundo todo, que identifica o viajante em outros países. Nele são registradas entradas e saídas em cada país, além dos vistos e autorizações. 
+É um documento de viagem aceito no mundo todo, que identifica o viajante em outros países. Nele, são registradas entradas e saídas em cada país, além dos vistos e autorizações. 
 
-Emitido pela Polícia Federal, o passaporte tem validade de dez anos. Para obtê-lo, é preciso cumprir uma série de passos, reunir os documentos necessários e fazer o agendamento junto à [Polícia Federal]( https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro ).
+Emitido pela Polícia Federal, o passaporte tem validade de 10 anos. Para obtê-lo, é preciso cumprir uma série de passos, reunir os documentos necessários e fazer o agendamento junto à [Polícia Federal]( https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro ).
 
 Neste vídeo, você vai conferir o passo a passo para tirar o documento.  
 
