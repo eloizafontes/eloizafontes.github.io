@@ -16,7 +16,7 @@ tags:
   - Viagem
 ---
 
-No sorteio dos grupos, o Brasil caiu no G, composto por Brasil, Sérvia, Suíça e Camarões. E aí, o que achou desse grupo que nosso país caiu? Depois, deixe sua opinião nos comentários. A fase de grupos da Copa do Mundo tem início em 21 de novembro e a final está prevista para 18 de dezembro. Bom… vamos de curiosidades…
+No sorteio dos grupos, o Brasil caiu no G, composto por Brasil, Sérvia, Suíça e Camarões. A fase de grupos da Copa do Mundo tem início em 21 de novembro e a final está prevista para 18 de dezembro. 
 
 {% include video id="yS9mK6kN8BU" provider="youtube" %}
 
