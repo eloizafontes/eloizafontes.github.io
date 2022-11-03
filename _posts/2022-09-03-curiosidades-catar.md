@@ -43,6 +43,7 @@ Fuso horário: 6h a mais em relação ao horário de Brasília, Brasil.
 
 
 História 
+
 O Catar é a menor nação da história a sediar a Copa do Mundo, de acordo com a Fifa. É um país localizado na Ásia Ocidental, na Península Arábica, e estende-se até o norte do Golfo Pérsico. O país é considerado um emirado, tendo seu território administrado por um membro da classe dominante, no caso um emir. É uma das nações mais ricas do mundo.
 O Catar era considerado um protetorado britânico devido à divisão do Império Otomano. Tornou-se independente do Reino Unido em 1971, vindo a ser um Estado soberano. A dinastia reinante frente ao governo do Catar é a família Al Thani, há quase 150 anos. A monarquia é herdada de pais para filhos.
 Atualmente, é um dos países mais ricos do mundo e com uma das menores cargas tributárias, segundo o Relatório Global de Competitividade. Esse histórico de riquezas deu-se a partir dos anos 40, quando se iniciou no país a exploração do petróleo e gás natural.
@@ -78,22 +79,28 @@ Não há mais obrigação de visto para os brasileiros que desejam viajar ao Cat
 COPA DO MUNDO
 
 Seleção do Catar
+
 A seleção do Catar não possui tradição no futebol e nenhum atleta conhecido internacionalmente. Em 2019, o futebol do país teve motivos para comemorar ao ganhar um título inédito: campeão da Copa da Ásia, disputada nos Emirados Árabes, vencendo a Seleção do Japão na final.
 
 Cidades-sede
+
 A Copa do Catar terá cinco cidades como sedes: a capital Doha, Al Khor, Al Rayyan, Al Wakrah e Lusail (que está em construção).
 
 Lusail
+
 O Catar está construindo uma nova cidade para receber a abertura e final da Copa do Mundo 2022: Lusail. O projeto prevê que a cidade fique situada a, aproximadamente, 25 km de distância da capital Doha. Lusail será a sede do principal estádio da competição, o Estádio Lusail, com capacidade para 80 mil pessoas. A nova cidade, que está sendo projetada para 250 mil pessoas, também contará com hotéis, ilhas artificiais, marinas, shoppings, lojas de luxo e de entretenimento e outros comércios. Boa parte das obras de Lusail, que terá, aproximadamente, 35 km², já foram concluídas.
 
 Estádios
+
 A Copa do Mundo no Catar terá oito estádios para receber os jogos. Entre eles, apenas o Khalifa foi reformado e seguirá com sua capacidade original de 40 mil lugares depois da competição. Os outros sete estádios foram construídos ou estão em fase de construção. Entre eles, seis terão suas capacidades reduzidas após o mundial e um será desmontado. Depois da Copa, o Catar vai doar 170 mil assentos para estádios de outros países. A proximidade dos estádios da Copa de 2022 permitirá aos torcedores acompanhar mais de um jogo por dia. A maior distância será de 55 km entre os estádios de Al Khor, que fica ao norte, e Al Wakrah, no sul. Todos os oito estádios terão um sistema de climatização para amenizar a temperatura.
 
 
 Grupos e tabela
+
 Os grupos da Copa do Mundo do Catar foram sorteados no dia 1º de abril de 2022. São oito grupos com quatro seleções cada. O Brasil está no grupo G juntamente com Sérvia, Suíça e Camarões. O primeiro jogo do Brasil na Copa do Mundo de 2022 será no dia 24 de novembro, às 16h, contra a Sérvia. Depois, enfrenta a Suíça no dia 28 de novembro, às 13h. O Brasil encerrará sua participação na fase de grupos no dia 2 de dezembro, às 16h, contra Camarões.
 
 Fase de grupos: 21 de novembro a 2 de dezembro
+
 Oitavas de final: 3 a 6 de dezembro
 Quartas de final: 9 e 10 de dezembro
 Semifinais: 13 e 14 de dezembro
