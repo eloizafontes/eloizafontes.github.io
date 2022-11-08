@@ -39,4 +39,4 @@ Por que escolher a Kultivi?
 
 - Cursos com certificado no final.
 
-Gostou da nossa dica? Aqui no Portal Como Fazer, você encontra essa e muitas dicas para ajudar no seu conhecimento.
+Gostou da nossa dica? Aqui,  você também encontra essa e muitas dicas para ajudar no seu conhecimento.
