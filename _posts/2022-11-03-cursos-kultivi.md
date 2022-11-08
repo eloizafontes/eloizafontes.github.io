@@ -9,9 +9,11 @@ header:
 categories:
   - Tutoriais
 tags:
-  - Curso de Inglês
+  - Curso de Inglês 
+  - Curso de Inglês On-line
   - Curso de Inglês Gratuito
   - Kultivi
+  - Aprenda inglês pela internet
 ---
 
 {% include figure image_path="/assets/images/stock/kultivi.jpg" alt=""  %}
