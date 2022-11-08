@@ -20,9 +20,9 @@ Se você está procurando por cursos de idiomas, mas esbarra nos preços de mens
 
 Se trata de um projeto totalmente gratuito, com várias horas de curso e diversos materiais de apoio. E, sim, sem precisar pagar nada por isso.
 
-Nós estamos falando da [Kultivi] ( https://app.kultivi.com/signup?bid=NVQKGXK ), que é uma Edtech que possui a missão de oferecer ensino online gratuito e de qualidade, sempre. Sua filosofia é que todos merecem a oportunidade de aprender.
+Nós estamos falando da [Kultivi]( https://app.kultivi.com/signup?bid=NVQKGXK ), que é uma Edtech que possui a missão de oferecer ensino online gratuito e de qualidade, sempre. Sua filosofia é que todos merecem a oportunidade de aprender.
 
-Na plataforma, você tem acesso a vários cursos de idiomas, incluindo o inglês, se prepara para concursos, OAB, Enem, e, ainda, pode optar por cursos de desenvolvimento pessoal e profissionalização. Você pode acessar a plataforma [clicando aqui] ( https://app.kultivi.com/signup?bid=NVQKGXK ).
+Na plataforma, você tem acesso a vários cursos de idiomas, incluindo o inglês, se prepara para concursos, OAB, Enem, e, ainda, pode optar por cursos de desenvolvimento pessoal e profissionalização. Você pode acessar a plataforma [clicando aqui]( https://app.kultivi.com/signup?bid=NVQKGXK ).
 
 
 Por que escolher a Kultivi?
