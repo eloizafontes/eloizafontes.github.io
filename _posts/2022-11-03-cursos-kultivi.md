@@ -14,6 +14,7 @@ tags:
   - Curso de Inglês Gratuito
   - Kultivi
   - Aprenda inglês pela internet
+  - Inglês pela internet
 ---
 
 {% include figure image_path="/assets/images/stock/kultivi.jpg" alt=""  %}
